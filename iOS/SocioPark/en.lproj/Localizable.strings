@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  SocioPark
+
+  Created by Amit Wolfus on 12/24/12.
+  Copyright (c) 2012 Amit Wolfus. All rights reserved.
+*/
+"Places" = "Places";
+"Navigate Using" = "Navigate Using";
+"Navigate" = "Navigate";
+"Cancel" = "Cancel";
+"Desitnation Reached" = "Arrived at destination";
+"CheckIn and Report" = "Continue to rate the current load state of the parking";
+"Skip" = "Skip";
+"Empty" = "Empty";
+"Medium" = "Light Load";
+"Busy" = "Medium Load";
+"Full" = "Heavy Load";
+"Error" = "Error";
+"ErrorFetchPlaces" = "Unable to contact the places server, please try again";
+"OK" = "OK";
+"ErrorFetchParkings" = "Unable to contact the parkings server, please try again";
+"ReportState" = "Report Parking State";
+"SearchPlaceholder" = "Enter place name...";
+"Tutorial" = "Welcome to SocioPark!\
+To start, type in a name of a place in tel aviv.";
+"NoResults" = "No results found, please make sure that the place you are looking for is in Tel-Aviv.";
+"SearchParkings" = "Searching for parkings nearby...";
+"NoParkingsFound" = "No parkings were found!";
+"FacebookLoginRequired" = "Welcome to SocioPark!\
+To begin searching for parking lots, please login with your\
+Facebook account";
+"NotConnected" = "The Internet connection appears to be offline";
+"RateTitle" = "You have reached your destination!\
+Please take a moment to \
+rate the current state of the parking";

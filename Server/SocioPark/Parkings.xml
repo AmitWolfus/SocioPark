@@ -1,0 +1,4523 @@
+<?xml version="1.0"?>
+<Parkings>
+	<Parking>
+		<ID>1</ID>
+		<Name>אחימאיר</Name>
+		<Capacity>70</Capacity>
+		<Latitude>32.124431</Latitude>
+		<Longtitude>34.804155</Longtitude>
+		<StreetName>אחימאיר אבא</StreetName>
+		<HouseNumber>28</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+    
+	<Parking>
+		<ID>2</ID>
+		<Name>התערוכה 3</Name>
+		<Capacity>161</Capacity>
+		<Latitude>32.097218</Latitude>
+		<Longtitude>34.7756175</Longtitude>
+		<StreetName>התערוכה</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>3</ID>
+		<Name>אסותא</Name>
+		<Capacity>21</Capacity>
+		<Latitude>32.0886443</Latitude>
+		<Longtitude>34.7794926</Longtitude>
+		<StreetName>ז'בוטינסקי</StreetName>
+		<HouseNumber>62</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>4</ID>
+		<Name>השקם</Name>
+		<Capacity>541</Capacity>
+		<Latitude>32.0876845</Latitude>
+		<Longtitude>34.7823072</Longtitude>
+		<StreetName>אבן גבירול</StreetName>
+		<HouseNumber>130</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>5</ID>
+		<Name> אורי</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0813233</Latitude>
+		<Longtitude>34.7853183</Longtitude>
+		<StreetName>לסר אורי</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>6</ID>
+		<Name>מלון שרתון</Name>
+		<Capacity>142</Capacity>
+		<Latitude>32.0812843</Latitude>
+		<Longtitude>34.7684086</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>115</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>7</ID>
+		<Name>כלל</Name>
+		<Capacity>744</Capacity>
+		<Latitude>32.0775816</Latitude>
+		<Longtitude>34.7717732</Longtitude>
+		<StreetName>לוריא</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>8</ID>
+		<Name>חשמונאים</Name>
+		<Capacity>105</Capacity>
+		<Latitude>32.0695167</Latitude>
+		<Longtitude>34.7836464</Longtitude>
+		<StreetName>החשמונאים</StreetName>
+		<HouseNumber>86</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>9</ID>
+		<Name>אבן זיו</Name>
+		<Capacity>488</Capacity>
+		<Latitude>32.0678551</Latitude>
+		<Longtitude>34.782254</Longtitude>
+		<StreetName>סעדיה גאון</StreetName>
+		<HouseNumber>24</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>10</ID>
+		<Name>תקדים שרותי ניהול</Name>
+		<Capacity>124</Capacity>
+		<Latitude>32.0679579</Latitude>
+		<Longtitude>34.7861299</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>86</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>11</ID>
+		<Name>שטיבל</Name>
+		<Capacity>16</Capacity>
+		<Latitude>32.0664333</Latitude>
+		<Longtitude>34.788322</Longtitude>
+		<StreetName>שטיבל</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>12</ID>
+		<Name>רבניצקי</Name>
+		<Capacity>104</Capacity>
+		<Latitude>32.0660152</Latitude>
+		<Longtitude>34.7897748</Longtitude>
+		<StreetName>רבניצקי</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>13</ID>
+		<Name>הגליל</Name>
+		<Capacity>25</Capacity>
+		<Latitude>32.060947</Latitude>
+		<Longtitude>34.7788204</Longtitude>
+		<StreetName>הגליל</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>14</ID>
+		<Name>חן אנריקו</Name>
+		<Capacity>54</Capacity>
+		<Latitude>32.060053</Latitude>
+		<Longtitude>34.7756086</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>15</ID>
+		<Name></Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0573621</Latitude>
+		<Longtitude>34.7797695</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>62</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>16</ID>
+		<Name>גלי צה&quot;ל</Name>
+		<Capacity>180</Capacity>
+		<Latitude>32.0510522</Latitude>
+		<Longtitude>34.7571179</Longtitude>
+		<StreetName>נועם</StreetName>
+		<HouseNumber>21</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>17</ID>
+		<Name>משה סנה</Name>
+		<Capacity>70</Capacity>
+		<Latitude>32.1246152</Latitude>
+		<Longtitude>34.8247083</Longtitude>
+		<StreetName>סנה משה</StreetName>
+		<HouseNumber>54</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>18</ID>
+		<Name>בית החייל</Name>
+		<Capacity>53</Capacity>
+		<Latitude>32.0903418</Latitude>
+		<Longtitude>34.7905942</Longtitude>
+		<StreetName>ויצמן</StreetName>
+		<HouseNumber>60</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>19</ID>
+		<Name>סופרמרקט פנקס 48</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0812554</Latitude>
+		<Longtitude>34.8799618</Longtitude>
+		<StreetName>פנקס דוד צבי</StreetName>
+		<HouseNumber>48</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>20</ID>
+		<Name>מרכז עזריאלי</Name>
+		<Capacity>3085</Capacity>
+		<Latitude>32.0743777</Latitude>
+		<Longtitude>34.7910064</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>132</HouseNumber>
+		<CurrentState>1</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>21</ID>
+		<Name>מרים החשמונאית</Name>
+		<Capacity>45</Capacity>
+		<Latitude>32.0952159</Latitude>
+		<Longtitude>34.7844258</Longtitude>
+		<StreetName>מרים החשמונאית</StreetName>
+		<HouseNumber>38</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>22</ID>
+		<Name>בית קלקא</Name>
+		<Capacity>98</Capacity>
+		<Latitude>32.0709586</Latitude>
+		<Longtitude>34.7903875</Longtitude>
+		<StreetName>הנצי&quot;ב</StreetName>
+		<HouseNumber>35</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>23</ID>
+		<Name>הנציב</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0709584</Latitude>
+		<Longtitude>34.7903895</Longtitude>
+		<StreetName>הנצי&quot;ב</StreetName>
+		<HouseNumber>36</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>24</ID>
+		<Name>בית מונטיפיורי</Name>
+		<Capacity>122</Capacity>
+		<Latitude>32.0712857</Latitude>
+		<Longtitude>34.7921824</Longtitude>
+		<StreetName>איסרליש</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>25</ID>
+		<Name>מונטיפיורי</Name>
+		<Capacity>12</Capacity>
+		<Latitude>32.0700743</Latitude>
+		<Longtitude>34.7898684</Longtitude>
+		<StreetName>יהודית</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>26</ID>
+		<Name></Name>
+		<Capacity>26</Capacity>
+		<Latitude>32.0685831</Latitude>
+		<Longtitude>34.7884016</Longtitude>
+		<StreetName>ב&quot;ק ישראל</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>27</ID>
+		<Name>ישראל בק 2</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0685164</Latitude>
+		<Longtitude>34.7899233</Longtitude>
+		<StreetName>הנצי&quot;ב</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>28</ID>
+		<Name>לב ת&quot;א</Name>
+		<Capacity>188</Capacity>
+		<Latitude>32.0656607</Latitude>
+		<Longtitude>34.7735988</Longtitude>
+		<StreetName>מונטיפיורי</StreetName>
+		<HouseNumber>35</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>29</ID>
+		<Name>בית הרכב</Name>
+		<Capacity>772</Capacity>
+		<Latitude>32.0635798</Latitude>
+		<Longtitude>34.7694618</Longtitude>
+		<StreetName>אחד העם</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>30</ID>
+		<Name>בית אסיה</Name>
+		<Capacity>307</Capacity>
+		<Latitude>32.0781366</Latitude>
+		<Longtitude>34.7884616</Longtitude>
+		<StreetName>ויצמן</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>31</ID>
+		<Name>סמינר הקיבוצים</Name>
+		<Capacity>319</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>נמיר מרדכי</StreetName>
+		<HouseNumber>149</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>32</ID>
+		<Name></Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0693659</Latitude>
+		<Longtitude>34.7691321</Longtitude>
+		<StreetName>רבן גמליאל</StreetName>
+		<HouseNumber>23</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>33</ID>
+		<Name></Name>
+		<Capacity>128</Capacity>
+		<Latitude>32.061597</Latitude>
+		<Longtitude>34.7622592</Longtitude>
+		<StreetName>שמרלינג</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>34</ID>
+		<Name>אלחנן 1</Name>
+		<Capacity>28</Capacity>
+		<Latitude>32.0645904</Latitude>
+		<Longtitude>34.7676369</Longtitude>
+		<StreetName>אלחנן יצחק</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>35</ID>
+		<Name>התלמי</Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0624019</Latitude>
+		<Longtitude>34.768791</Longtitude>
+		<StreetName>התלמי יהושע</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>36</ID>
+		<Name>בית הטקסטיל</Name>
+		<Capacity>170</Capacity>
+		<Latitude>32.0632937</Latitude>
+		<Longtitude>34.7618669</Longtitude>
+		<StreetName>קויפמן יחזקאל</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>37</ID>
+		<Name>דן פנורמה</Name>
+		<Capacity>232</Capacity>
+		<Latitude>32.0651337</Latitude>
+		<Longtitude>34.76261</Longtitude>
+		<StreetName>קויפמן יחזקאל</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>38</ID>
+		<Name>סוזאן דלאל</Name>
+		<Capacity>185</Capacity>
+		<Latitude>32.0604825</Latitude>
+		<Longtitude>34.7678267</Longtitude>
+		<StreetName>פינס</StreetName>
+		<HouseNumber>44</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>39</ID>
+		<Name>התבור</Name>
+		<Capacity>20</Capacity>
+		<Latitude>32.0661732</Latitude>
+		<Longtitude>34.768519</Longtitude>
+		<StreetName>קלישר</StreetName>
+		<HouseNumber>26</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>40</ID>
+		<Name>אלחנן 11</Name>
+		<Capacity>47</Capacity>
+		<Latitude>32.0650924</Latitude>
+		<Longtitude>34.7662311</Longtitude>
+		<StreetName>אלחנן יצחק</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>41</ID>
+		<Name>נחום 94</Name>
+		<Capacity>39</Capacity>
+		<Latitude>32.0653222</Latitude>
+		<Longtitude>34.7659066</Longtitude>
+		<StreetName>אלחנן יצחק</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>42</ID>
+		<Name>גרוזנברג</Name>
+		<Capacity>412</Capacity>
+		<Latitude>32.0660635</Latitude>
+		<Longtitude>34.7696683</Longtitude>
+		<StreetName>גרוזנברג</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>43</ID>
+		<Name>הורד</Name>
+		<Capacity>49</Capacity>
+		<Latitude>32.0658105</Latitude>
+		<Longtitude>34.7694298</Longtitude>
+		<StreetName>גרוזנברג</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>44</ID>
+		<Name>מונטיפיורי 5</Name>
+		<Capacity>33</Capacity>
+		<Latitude>32.0646713</Latitude>
+		<Longtitude>34.7695743</Longtitude>
+		<StreetName>מונטיפיורי</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>45</ID>
+		<Name>השחר</Name>
+		<Capacity>12</Capacity>
+		<Latitude>32.0646146</Latitude>
+		<Longtitude>34.7691851</Longtitude>
+		<StreetName>מונטיפיורי</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>46</ID>
+		<Name>אופיר</Name>
+		<Capacity>68</Capacity>
+		<Latitude>32.0668798</Latitude>
+		<Longtitude>34.770966</Longtitude>
+		<StreetName>גרוזנברג</StreetName>
+		<HouseNumber>37</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>47</ID>
+		<Name></Name>
+		<Capacity>57</Capacity>
+		<Latitude>32.0645047</Latitude>
+		<Longtitude>34.7725771</Longtitude>
+		<StreetName>אלנבי</StreetName>
+		<HouseNumber>110</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>48</ID>
+		<Name>בית הרכב</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0631978</Latitude>
+		<Longtitude>34.7712569</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>17</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>49</ID>
+		<Name>אלנבי 102</Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0654367</Latitude>
+		<Longtitude>34.7721701</Longtitude>
+		<StreetName>אלנבי</StreetName>
+		<HouseNumber>102</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>50</ID>
+		<Name>אלנבי 115</Name>
+		<Capacity>178</Capacity>
+		<Latitude>32.0624457</Latitude>
+		<Longtitude>34.7733212</Longtitude>
+		<StreetName>אלנבי</StreetName>
+		<HouseNumber>115</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>51</ID>
+		<Name>מגדל יבנה</Name>
+		<Capacity>106</Capacity>
+		<Latitude>32.0631905</Latitude>
+		<Longtitude>34.7740593</Longtitude>
+		<StreetName>יבנה</StreetName>
+		<HouseNumber>31</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>52</ID>
+		<Name>בית-ציון</Name>
+		<Capacity>167</Capacity>
+		<Latitude>32.0640691</Latitude>
+		<Longtitude>34.77447</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>41</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>53</ID>
+		<Name>יבנה 17</Name>
+		<Capacity>9</Capacity>
+		<Latitude>32.0656167</Latitude>
+		<Longtitude>34.7733932</Longtitude>
+		<StreetName>מונטיפיורי</StreetName>
+		<HouseNumber>36</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>54</ID>
+		<Name>רענן 3</Name>
+		<Capacity>221</Capacity>
+		<Latitude>32.0602918</Latitude>
+		<Longtitude>34.7687039</Longtitude>
+		<StreetName>רענן</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>55</ID>
+		<Name>המסילה</Name>
+		<Capacity>105</Capacity>
+		<Latitude>32.0613452</Latitude>
+		<Longtitude>34.772477</Longtitude>
+		<StreetName>נחלת בנימין</StreetName>
+		<HouseNumber>68</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>56</ID>
+		<Name>חשמל 2</Name>
+		<Capacity>21</Capacity>
+		<Latitude>32.0617549</Latitude>
+		<Longtitude>34.7766276</Longtitude>
+		<StreetName>החשמל</StreetName>
+		<HouseNumber>19</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>57</ID>
+		<Name>החשמל</Name>
+		<Capacity>64</Capacity>
+		<Latitude>32.0623047</Latitude>
+		<Longtitude>34.7762066</Longtitude>
+		<StreetName>לבונטין</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>58</ID>
+		<Name>לבונטין</Name>
+		<Capacity>33</Capacity>
+		<Latitude>32.0624112</Latitude>
+		<Longtitude>34.7763021</Longtitude>
+		<StreetName>לבונטין</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>59</ID>
+		<Name></Name>
+		<Capacity>19</Capacity>
+		<Latitude>32.0608953</Latitude>
+		<Longtitude>34.7757139</Longtitude>
+		<StreetName>ברזילי</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>60</ID>
+		<Name>בני אליעזר</Name>
+		<Capacity>81</Capacity>
+		<Latitude>32.0628621</Latitude>
+		<Longtitude>34.7776982</Longtitude>
+		<StreetName>החשמל</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>61</ID>
+		<Name>בית הדר ב</Name>
+		<Capacity>23</Capacity>
+		<Latitude>32.0633562</Latitude>
+		<Longtitude>34.7785924</Longtitude>
+		<StreetName>הרכבת</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>62</ID>
+		<Name>ימה וקדמה ישראל</Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0690977</Latitude>
+		<Longtitude>34.7713806</Longtitude>
+		<StreetName>ברנר</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>63</ID>
+		<Name></Name>
+		<Capacity>39</Capacity>
+		<Latitude>32.0663142</Latitude>
+		<Longtitude>34.7765064</Longtitude>
+		<StreetName>אחד העם</StreetName>
+		<HouseNumber>82</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>64</ID>
+		<Name>שדרות בן ציון</Name>
+		<Capacity>46</Capacity>
+		<Latitude>32.0738165</Latitude>
+		<Longtitude>34.7758835</Longtitude>
+		<StreetName>בן ציון</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>65</ID>
+		<Name>לסקוב</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.0729281</Latitude>
+		<Longtitude>34.783578</Longtitude>
+		<StreetName>לסקוב חיים</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>66</ID>
+		<Name>המיגדל</Name>
+		<Capacity>300</Capacity>
+		<Latitude>32.0743319</Latitude>
+		<Longtitude>34.7824754</Longtitude>
+		<StreetName>פריש דניאל</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>67</ID>
+		<Name>דיזנגוף סנטר</Name>
+		<Capacity>756</Capacity>
+		<Latitude>32.0753405</Latitude>
+		<Longtitude>34.7752703</Longtitude>
+		<StreetName>דיזנגוף</StreetName>
+		<HouseNumber>50</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>68</ID>
+		<Name>החניון מעל בסנטר</Name>
+		<Capacity>240</Capacity>
+		<Latitude>32.0763227</Latitude>
+		<Longtitude>34.7746783</Longtitude>
+		<StreetName>דיזנגוף</StreetName>
+		<HouseNumber>64</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>69</ID>
+		<Name>בוגרשוב</Name>
+		<Capacity>42</Capacity>
+		<Latitude>32.0773618</Latitude>
+		<Longtitude>34.7689575</Longtitude>
+		<StreetName>בוגרשוב</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>70</ID>
+		<Name>מ.מטרופוליטן</Name>
+		<Capacity>51</Capacity>
+		<Latitude>32.0754549</Latitude>
+		<Longtitude>34.767222</Longtitude>
+		<StreetName>טרומפלדור</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>71</ID>
+		<Name>רם</Name>
+		<Capacity>28</Capacity>
+		<Latitude>32.0763258</Latitude>
+		<Longtitude>34.7669245</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>72</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>72</ID>
+		<Name>בית אל על</Name>
+		<Capacity>60</Capacity>
+		<Latitude>32.0763018</Latitude>
+		<Longtitude>34.7681355</Longtitude>
+		<StreetName>בן יהודה</StreetName>
+		<HouseNumber>32</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>73</ID>
+		<Name>מגדל האופרה</Name>
+		<Capacity>298</Capacity>
+		<Latitude>32.0742347</Latitude>
+		<Longtitude>34.7660297</Longtitude>
+		<StreetName>הירדן</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>74</ID>
+		<Name></Name>
+		<Capacity>77</Capacity>
+		<Latitude>32.0752843</Latitude>
+		<Longtitude>34.766555</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>64</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>75</ID>
+		<Name>הטיילת</Name>
+		<Capacity>291</Capacity>
+		<Latitude>32.074745</Latitude>
+		<Longtitude>34.766428</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>55</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>76</ID>
+		<Name>מלון קסם</Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0745753</Latitude>
+		<Longtitude>34.7680799</Longtitude>
+		<StreetName>בן יהודה</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>77</ID>
+		<Name>מוגרבי</Name>
+		<Capacity>103</Capacity>
+		<Latitude>32.0727019</Latitude>
+		<Longtitude>34.7687414</Longtitude>
+		<StreetName>אלנבי</StreetName>
+		<HouseNumber>25</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>78</ID>
+		<Name>אידלסון</Name>
+		<Capacity>196</Capacity>
+		<Latitude>32.0736717</Latitude>
+		<Longtitude>34.7674905</Longtitude>
+		<StreetName>אידלסון</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>79</ID>
+		<Name>יונה הנביא</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0721383</Latitude>
+		<Longtitude>34.7681558</Longtitude>
+		<StreetName>יונה הנביא</StreetName>
+		<HouseNumber>36</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>80</ID>
+		<Name>גאולה</Name>
+		<Capacity>36</Capacity>
+		<Latitude>32.0719029</Latitude>
+		<Longtitude>34.7667101</Longtitude>
+		<StreetName>גאולה</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>81</ID>
+		<Name>הכובשים</Name>
+		<Capacity>25</Capacity>
+		<Latitude>32.0720178</Latitude>
+		<Longtitude>34.7674901</Longtitude>
+		<StreetName>הכובשים</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>82</ID>
+		<Name></Name>
+		<Capacity>45</Capacity>
+		<Latitude>32.0781675</Latitude>
+		<Longtitude>34.7675785</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>92</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>83</ID>
+		<Name>בוגרשוב</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.080173</Latitude>
+		<Longtitude>34.7683183</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>107</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>84</ID>
+		<Name>מלון יובל</Name>
+		<Capacity>144</Capacity>
+		<Latitude>32.0805059</Latitude>
+		<Longtitude>34.7684271</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>111</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>85</ID>
+		<Name>הדרגסטור</Name>
+		<Capacity>14</Capacity>
+		<Latitude>32.0862373</Latitude>
+		<Longtitude>34.7778529</Longtitude>
+		<StreetName>ארלוזורוב</StreetName>
+		<HouseNumber>64</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>86</ID>
+		<Name>בית אליהו</Name>
+		<Capacity>177</Capacity>
+		<Latitude>32.0715047</Latitude>
+		<Longtitude>34.7819291</Longtitude>
+		<StreetName>אבן גבירול</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>87</ID>
+		<Name>ת&quot;א הקטנה</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.0966774</Latitude>
+		<Longtitude>34.7747322</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>304</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>88</ID>
+		<Name>שער ציון 9</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0956653</Latitude>
+		<Longtitude>34.7739282</Longtitude>
+		<StreetName>שער ציון</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>89</ID>
+		<Name>החוף</Name>
+		<Capacity>43</Capacity>
+		<Latitude>32.0948625</Latitude>
+		<Longtitude>34.7741535</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>299</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>90</ID>
+		<Name></Name>
+		<Capacity>74</Capacity>
+		<Latitude>32.0806456</Latitude>
+		<Longtitude>34.7694103</Longtitude>
+		<StreetName>מאפו</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>91</ID>
+		<Name></Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0841072</Latitude>
+		<Longtitude>34.769446</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>154</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>92</ID>
+		<Name>הסינרמה</Name>
+		<Capacity>126</Capacity>
+		<Latitude>32.825651</Latitude>
+		<Longtitude>34.986581</Longtitude>
+		<StreetName>ת&quot;א - חיפה</StreetName>
+		<HouseNumber>45</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>93</ID>
+		<Name>דליה</Name>
+		<Capacity>50</Capacity>
+		<Latitude>32.068056</Latitude>
+		<Longtitude>34.7881427</Longtitude>
+		<StreetName>שונצינו</StreetName>
+		<HouseNumber>23</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>94</ID>
+		<Name>ישראל ב&quot;ק</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.068705</Latitude>
+		<Longtitude>34.7876989</Longtitude>
+		<StreetName>ב&quot;ק ישראל</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>95</ID>
+		<Name>שעלים</Name>
+		<Capacity>66</Capacity>
+		<Latitude>32.0634967</Latitude>
+		<Longtitude>34.7854979</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>96</ID>
+		<Name>ישראכרט</Name>
+		<Capacity>340</Capacity>
+		<Latitude>32.0647447</Latitude>
+		<Longtitude>34.7861481</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>97</ID>
+		<Name>יצחק שדה</Name>
+		<Capacity>104</Capacity>
+		<Latitude>32.0650712</Latitude>
+		<Longtitude>34.7879293</Longtitude>
+		<StreetName>שדה יצחק</StreetName>
+		<HouseNumber>34</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>98</ID>
+		<Name>דן אל</Name>
+		<Capacity>132</Capacity>
+		<Latitude>32.1140621</Latitude>
+		<Longtitude>34.8235837</Longtitude>
+		<StreetName>קהילת סלוניקי</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>99</ID>
+		<Name>בן יוסף</Name>
+		<Capacity>53</Capacity>
+		<Latitude>32.1259499</Latitude>
+		<Longtitude>34.7981659</Longtitude>
+		<StreetName>בן יוסף שלמה</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>100</ID>
+		<Name>עמק ברכה</Name>
+		<Capacity>53</Capacity>
+		<Latitude>32.0771854</Latitude>
+		<Longtitude>34.7965312</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>141</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>101</ID>
+		<Name></Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0768902</Latitude>
+		<Longtitude>34.7957569</Longtitude>
+		<StreetName>יקנעם</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>102</ID>
+		<Name></Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0740749</Latitude>
+		<Longtitude>34.7999487</Longtitude>
+		<StreetName>נחלת יצחק</StreetName>
+		<HouseNumber>32</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>103</ID>
+		<Name>בית צרפת</Name>
+		<Capacity>249</Capacity>
+		<Latitude>32.0701823</Latitude>
+		<Longtitude>34.7948518</Longtitude>
+		<StreetName>תובל</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>104</ID>
+		<Name></Name>
+		<Capacity>32</Capacity>
+		<Latitude>32.0594768</Latitude>
+		<Longtitude>34.776932</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>105</ID>
+		<Name>אלוני חן</Name>
+		<Capacity>31</Capacity>
+		<Latitude>32.0598138</Latitude>
+		<Longtitude>34.7761757</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>21</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>106</ID>
+		<Name></Name>
+		<Capacity>53</Capacity>
+		<Latitude>32.0618748</Latitude>
+		<Longtitude>34.7785826</Longtitude>
+		<StreetName>השרון</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>107</ID>
+		<Name>בני ברק 26</Name>
+		<Capacity>15</Capacity>
+		<Latitude>32.0599852</Latitude>
+		<Longtitude>34.7810242</Longtitude>
+		<StreetName>בני ברק</StreetName>
+		<HouseNumber>26</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>108</ID>
+		<Name>הגדוד העברי</Name>
+		<Capacity>44</Capacity>
+		<Latitude>32.0583838</Latitude>
+		<Longtitude>34.7790903</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>43</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>109</ID>
+		<Name>ענתבי</Name>
+		<Capacity>20</Capacity>
+		<Latitude>32.0548726</Latitude>
+		<Longtitude>34.7818635</Longtitude>
+		<StreetName>ענתבי</StreetName>
+		<HouseNumber>17</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>110</ID>
+		<Name>מסילת העולים</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0560648</Latitude>
+		<Longtitude>34.7734028</Longtitude>
+		<StreetName>מסילת העולים</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>111</ID>
+		<Name></Name>
+		<Capacity>50</Capacity>
+		<Latitude>32.0585926</Latitude>
+		<Longtitude>34.770813</Longtitude>
+		<StreetName>הרצל</StreetName>
+		<HouseNumber>53</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>112</ID>
+		<Name>בלס יעקב</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.057995</Latitude>
+		<Longtitude>34.7714947</Longtitude>
+		<StreetName>השוק</StreetName>
+		<HouseNumber>38</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>113</ID>
+		<Name>הרצל</Name>
+		<Capacity>15</Capacity>
+		<Latitude>32.0571655</Latitude>
+		<Longtitude>34.770822</Longtitude>
+		<StreetName>הרצל</StreetName>
+		<HouseNumber>69</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>114</ID>
+		<Name>יפו העתיקה</Name>
+		<Capacity>253</Capacity>
+		<Latitude>32.0526292</Latitude>
+		<Longtitude>34.7521009</Longtitude>
+		<StreetName>פסטר</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>115</ID>
+		<Name>פלד</Name>
+		<Capacity>78</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>קבוץ גלויות</StreetName>
+		<HouseNumber>45</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>116</ID>
+		<Name>מכאל</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0528876</Latitude>
+		<Longtitude>34.770332</Longtitude>
+		<StreetName>הרצל</StreetName>
+		<HouseNumber>136</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>117</ID>
+		<Name>מרכזים</Name>
+		<Capacity>148</Capacity>
+		<Latitude>32.0505548</Latitude>
+		<Longtitude>34.7662135</Longtitude>
+		<StreetName>הזרם</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>118</ID>
+		<Name>עמי ובנו</Name>
+		<Capacity>9</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>קבוץ גלויות</StreetName>
+		<HouseNumber>83</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>119</ID>
+		<Name>תחנת דלק רסקין</Name>
+		<Capacity>6</Capacity>
+		<Latitude>32.0786058</Latitude>
+		<Longtitude>34.7732655</Longtitude>
+		<StreetName>פרוג</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>120</ID>
+		<Name>בתי המשפט</Name>
+		<Capacity>378</Capacity>
+		<Latitude>32.0503782</Latitude>
+		<Longtitude>34.7730058</Longtitude>
+		<StreetName>התנופה</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>121</ID>
+		<Name>בית האצל</Name>
+		<Capacity>350</Capacity>
+		<Latitude>32.066026</Latitude>
+		<Longtitude>34.7627589</Longtitude>
+		<StreetName>קויפמן יחזקאל</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>122</ID>
+		<Name>התקוה</Name>
+		<Capacity>37</Capacity>
+		<Latitude>32.0540497</Latitude>
+		<Longtitude>34.7898859</Longtitude>
+		<StreetName>ההגנה</StreetName>
+		<HouseNumber>76</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>123</ID>
+		<Name>הדולפינריום</Name>
+		<Capacity>129</Capacity>
+		<Latitude>32.0689981</Latitude>
+		<Longtitude>34.7633643</Longtitude>
+		<StreetName>הרברט סמואל</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>124</ID>
+		<Name>דולפינריום דרום</Name>
+		<Capacity>505</Capacity>
+		<Latitude>32.0689132</Latitude>
+		<Longtitude>34.7633252</Longtitude>
+		<StreetName>הרברט סמואל</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>125</ID>
+		<Name>חניוני M.M.N</Name>
+		<Capacity>166</Capacity>
+		<Latitude>32.0640258</Latitude>
+		<Longtitude>34.7879316</Longtitude>
+		<StreetName>בית עובד</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>126</ID>
+		<Name>בית קליפורניה</Name>
+		<Capacity>170</Capacity>
+		<Latitude>32.0738877</Latitude>
+		<Longtitude>34.7952265</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>120</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>127</ID>
+		<Name>מלון דבורה</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.0830003</Latitude>
+		<Longtitude>34.7714679</Longtitude>
+		<StreetName>בן יהודה</StreetName>
+		<HouseNumber>91</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>128</ID>
+		<Name>אתרים 1</Name>
+		<Capacity>344</Capacity>
+		<Latitude>32.085376</Latitude>
+		<Longtitude>34.7701708</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>165</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>129</ID>
+		<Name>בריכת גורדון</Name>
+		<Capacity>167</Capacity>
+		<Latitude>32.0855256</Latitude>
+		<Longtitude>34.769619</Longtitude>
+		<StreetName>פרי אליעזר</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>130</ID>
+		<Name>הילטון</Name>
+		<Capacity>204</Capacity>
+		<Latitude>32.0933134</Latitude>
+		<Longtitude>34.7735168</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>241</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>131</ID>
+		<Name>הספורטק</Name>
+		<Capacity>416</Capacity>
+		<Latitude>32.098857</Latitude>
+		<Longtitude>34.7886737</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>44</HouseNumber>
+		<CurrentState>1</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>132</ID>
+		<Name>הפרוזדור</Name>
+		<Capacity>308</Capacity>
+		<Latitude>32.1007355</Latitude>
+		<Longtitude>34.7978667</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>80</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>133</ID>
+		<Name>רכבת האוניברסיטה</Name>
+		<Capacity>172</Capacity>
+		<Latitude>32.1067495</Latitude>
+		<Longtitude>34.8135372</Longtitude>
+		<StreetName>רמבה אייזיק</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>134</ID>
+		<Name>מרכז הירידים</Name>
+		<Capacity>419</Capacity>
+		<Latitude>32.1063499</Latitude>
+		<Longtitude>34.8133536</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>101</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>135</ID>
+		<Name>פארק הירקון</Name>
+		<Capacity>1878</Capacity>
+		<Latitude>32.1036001</Latitude>
+		<Longtitude>34.809025</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>94</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>136</ID>
+		<Name>מוזיאון א&quot;י</Name>
+		<Capacity>137</Capacity>
+		<Latitude>32.1037484</Latitude>
+		<Longtitude>34.7970743</Longtitude>
+		<StreetName>לבנון חיים</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>137</ID>
+		<Name>קרליבך</Name>
+		<Capacity>37</Capacity>
+		<Latitude>32.0683138</Latitude>
+		<Longtitude>34.7830595</Longtitude>
+		<StreetName>קרליבך</StreetName>
+		<HouseNumber>21</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>138</ID>
+		<Name>עין יעקב</Name>
+		<Capacity>176</Capacity>
+		<Latitude>32.0639163</Latitude>
+		<Longtitude>34.7637536</Longtitude>
+		<StreetName>המרד</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>139</ID>
+		<Name></Name>
+		<Capacity>106</Capacity>
+		<Latitude>32.0559892</Latitude>
+		<Longtitude>34.78131</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>122</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>140</ID>
+		<Name>אבן זיו</Name>
+		<Capacity>138</Capacity>
+		<Latitude>32.0618357</Latitude>
+		<Longtitude>34.7832914</Longtitude>
+		<StreetName>יד חרוצים</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>141</ID>
+		<Name>מגדלי העיר</Name>
+		<Capacity>200</Capacity>
+		<Latitude>32.0634765</Latitude>
+		<Longtitude>34.780037</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>48</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>142</ID>
+		<Name>חומה ומגדל</Name>
+		<Capacity>73</Capacity>
+		<Latitude>32.0611163</Latitude>
+		<Longtitude>34.7854713</Longtitude>
+		<StreetName>חומה ומגדל</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>143</ID>
+		<Name>השומרון</Name>
+		<Capacity>87</Capacity>
+		<Latitude>32.0601673</Latitude>
+		<Longtitude>34.7759475</Longtitude>
+		<StreetName>צ'לנוב</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>144</ID>
+		<Name>חנה וסע ארלוזורוב</Name>
+		<Capacity>963</Capacity>
+		<Latitude>32.048249</Latitude>
+		<Longtitude>34.860621</Longtitude>
+		<StreetName>דורי יעקב (רב אלוף)</StreetName>
+		<HouseNumber>158</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>145</ID>
+		<Name>ריב&quot;ל</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0626413</Latitude>
+		<Longtitude>34.782683</Longtitude>
+		<StreetName>ריב&quot;ל</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>146</ID>
+		<Name>אייס קנה ובנה</Name>
+		<Capacity>60</Capacity>
+		<Latitude>32.0637351</Latitude>
+		<Longtitude>34.7921415</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>59</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>147</ID>
+		<Name>דרום הקריה</Name>
+		<Capacity>208</Capacity>
+		<Latitude>32.0713465</Latitude>
+		<Longtitude>34.7861143</Longtitude>
+		<StreetName>ארניה אוסוולדו</StreetName>
+		<HouseNumber>28</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>148</ID>
+		<Name>המרד</Name>
+		<Capacity>55</Capacity>
+		<Latitude>32.0640332</Latitude>
+		<Longtitude>34.7638005</Longtitude>
+		<StreetName>המרד</StreetName>
+		<HouseNumber>32</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>149</ID>
+		<Name>התקומה</Name>
+		<Capacity>43</Capacity>
+		<Latitude>32.0650385</Latitude>
+		<Longtitude>34.7646018</Longtitude>
+		<StreetName>המרד</StreetName>
+		<HouseNumber>36</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>150</ID>
+		<Name>קניון אביב</Name>
+		<Capacity>1569</Capacity>
+		<Latitude>32.1127294</Latitude>
+		<Longtitude>34.7948797</Longtitude>
+		<StreetName>אינשטיין</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>151</ID>
+		<Name>מאחורי בית החייל</Name>
+		<Capacity>50</Capacity>
+		<Latitude>32.0898258</Latitude>
+		<Longtitude>34.7919752</Longtitude>
+		<StreetName>עקיבא אריה</StreetName>
+		<HouseNumber>27</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>152</ID>
+		<Name>היכל הספורט</Name>
+		<Capacity>500</Capacity>
+		<Latitude>32.0615095</Latitude>
+		<Longtitude>34.7919732</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>51</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>153</ID>
+		<Name>בלומפילד</Name>
+		<Capacity>429</Capacity>
+		<Latitude>32.0499548</Latitude>
+		<Longtitude>34.7638923</Longtitude>
+		<StreetName>התחיה</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>154</ID>
+		<Name>יד אבנר</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.1197019</Latitude>
+		<Longtitude>34.8055988</Longtitude>
+		<StreetName>קוממיות</StreetName>
+		<HouseNumber>26</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>155</ID>
+		<Name>מנשיה</Name>
+		<Capacity>490</Capacity>
+		<Latitude>32.0569329</Latitude>
+		<Longtitude>34.7597189</Longtitude>
+		<StreetName>קויפמן יחזקאל</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>156</ID>
+		<Name>הברזל(האבטיחי</Name>
+		<Capacity>337</Capacity>
+		<Latitude>32.1084995</Latitude>
+		<Longtitude>34.839015</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>157</ID>
+		<Name>המשולש</Name>
+		<Capacity>41</Capacity>
+		<Latitude>32.1313944</Latitude>
+		<Longtitude>34.7943895</Longtitude>
+		<StreetName>פרסיץ שושנה</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>158</ID>
+		<Name>מכללת לוינסקי</Name>
+		<Capacity>214</Capacity>
+		<Latitude>32.1360919</Latitude>
+		<Longtitude>34.7974731</Longtitude>
+		<StreetName>פרסיץ שושנה</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>159</ID>
+		<Name>המכללה למינהל</Name>
+		<Capacity>207</Capacity>
+		<Latitude>32.135029</Latitude>
+		<Longtitude>34.7969059</Longtitude>
+		<StreetName>פרסיץ שושנה</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>160</ID>
+		<Name>מדעי החברה</Name>
+		<Capacity>259</Capacity>
+		<Latitude>32.1065432</Latitude>
+		<Longtitude>34.802101</Longtitude>
+		<StreetName>וויז ג'ורג' ד&quot;ר</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>161</ID>
+		<Name>הארד</Name>
+		<Capacity>390</Capacity>
+		<Latitude>32.111233</Latitude>
+		<Longtitude>34.841177</Longtitude>
+		<StreetName>הארד</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>162</ID>
+		<Name>שרבט סהר</Name>
+		<Capacity>258</Capacity>
+		<Latitude>32.0278217</Latitude>
+		<Longtitude>34.7769188</Longtitude>
+		<StreetName>שנקר אריה</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>163</ID>
+		<Name>מגדל הסחר הבינלאומי</Name>
+		<Capacity>350</Capacity>
+		<Latitude>32.0278217</Latitude>
+		<Longtitude>34.7769188</Longtitude>
+		<StreetName>שנקר אריה</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>164</ID>
+		<Name></Name>
+		<Capacity>12</Capacity>
+		<Latitude>32.0662226</Latitude>
+		<Longtitude>34.7712688</Longtitude>
+		<StreetName>בית השואבה</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>165</ID>
+		<Name>הקונגרס</Name>
+		<Capacity>20</Capacity>
+		<Latitude>32.0570432</Latitude>
+		<Longtitude>34.7739531</Longtitude>
+		<StreetName>הקונגרס</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>166</ID>
+		<Name>י.ל. פרץ 40</Name>
+		<Capacity>48</Capacity>
+		<Latitude>32.0587329</Latitude>
+		<Longtitude>34.7769578</Longtitude>
+		<StreetName>פרץ י ל</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>167</ID>
+		<Name>ע.לירון</Name>
+		<Capacity>180</Capacity>
+		<Latitude>32.0605959</Latitude>
+		<Longtitude>34.7764346</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>24</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>168</ID>
+		<Name>עצמאות</Name>
+		<Capacity>89</Capacity>
+		<Latitude>32.0661577</Latitude>
+		<Longtitude>34.774099</Longtitude>
+		<StreetName>נחמני</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>169</ID>
+		<Name>מלון דן ת&quot;א</Name>
+		<Capacity>63</Capacity>
+		<Latitude>32.0799341</Latitude>
+		<Longtitude>34.767948</Longtitude>
+		<StreetName>פרישמן</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>170</ID>
+		<Name>בן סרוק 1</Name>
+		<Capacity>79</Capacity>
+		<Latitude>32.0851717</Latitude>
+		<Longtitude>34.783323</Longtitude>
+		<StreetName>בן סרוק</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>171</ID>
+		<Name>הצפירה 2</Name>
+		<Capacity>107</Capacity>
+		<Latitude>32.0621131</Latitude>
+		<Longtitude>34.7809053</Longtitude>
+		<StreetName>הצפירה</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>172</ID>
+		<Name> הצפירה</Name>
+		<Capacity>84</Capacity>
+		<Latitude>32.0612534</Latitude>
+		<Longtitude>34.7819513</Longtitude>
+		<StreetName>הצפירה</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>173</ID>
+		<Name>שמי בר</Name>
+		<Capacity>219</Capacity>
+		<Latitude>32.0663472</Latitude>
+		<Longtitude>34.7939606</Longtitude>
+		<StreetName>בוקסנבאום יוסף</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>174</ID>
+		<Name>סלואדור</Name>
+		<Capacity>68</Capacity>
+		<Latitude>32.166239</Latitude>
+		<Longtitude>34.812469</Longtitude>
+		<StreetName>סלואדור</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>175</ID>
+		<Name>הנדסאים</Name>
+		<Capacity>155</Capacity>
+		<Latitude>32.105705</Latitude>
+		<Longtitude>34.801582</Longtitude>
+		<StreetName>בן ישי</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>176</ID>
+		<Name>עתידים</Name>
+		<Capacity>249</Capacity>
+		<Latitude>32.1146059</Latitude>
+		<Longtitude>34.843288</Longtitude>
+		<StreetName>2184</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>177</ID>
+		<Name>הלוחמים</Name>
+		<Capacity>288</Capacity>
+		<Latitude>32.0298332</Latitude>
+		<Longtitude>34.7714754</Longtitude>
+		<StreetName>הלוחמים</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>178</ID>
+		<Name>הלולאה</Name>
+		<Capacity>170</Capacity>
+		<Latitude>32.825651</Latitude>
+		<Longtitude>34.986581</Longtitude>
+		<StreetName>ת&quot;א - חיפה</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>179</ID>
+		<Name>עבודה סוציאלית והנדסה</Name>
+		<Capacity>335</Capacity>
+		<Latitude>32.1074624</Latitude>
+		<Longtitude>34.8024253</Longtitude>
+		<StreetName>וויז ג'ורג' ד&quot;ר</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>180</ID>
+		<Name>מרמורק 18</Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0714022</Latitude>
+		<Longtitude>34.7807427</Longtitude>
+		<StreetName>מרמורק</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>181</ID>
+		<Name>מפעל הפיס</Name>
+		<Capacity>84</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>דה וינצ'י לאונרד</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>182</ID>
+		<Name>נדב מאיר</Name>
+		<Capacity>109</Capacity>
+		<Latitude>32.0641083</Latitude>
+		<Longtitude>34.7621997</Longtitude>
+		<StreetName>קויפמן יחזקאל</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>183</ID>
+		<Name>חוף תל-ברוך</Name>
+		<Capacity>999</Capacity>
+		<Latitude>32.122005</Latitude>
+		<Longtitude>34.784984</Longtitude>
+		<StreetName>ארצי יצחק</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>184</ID>
+		<Name>ישראל</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0585263</Latitude>
+		<Longtitude>34.7741003</Longtitude>
+		<StreetName>מטלון</StreetName>
+		<HouseNumber>56</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>185</ID>
+		<Name>בית הדר</Name>
+		<Capacity>582</Capacity>
+		<Latitude>32.0634851</Latitude>
+		<Longtitude>34.7768211</Longtitude>
+		<StreetName>הרכבת</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>186</ID>
+		<Name>יסוד המעלה</Name>
+		<Capacity>37</Capacity>
+		<Latitude>32.0581397</Latitude>
+		<Longtitude>34.78107</Longtitude>
+		<StreetName>יסוד המעלה</StreetName>
+		<HouseNumber>43</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>187</ID>
+		<Name>תל נורדאו</Name>
+		<Capacity>173</Capacity>
+		<Latitude>32.0798171</Latitude>
+		<Longtitude>34.7716565</Longtitude>
+		<StreetName>פרישמן</StreetName>
+		<HouseNumber>28</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>188</ID>
+		<Name> בני דן</Name>
+		<Capacity>54</Capacity>
+		<Latitude>32.0956358</Latitude>
+		<Longtitude>34.7779781</Longtitude>
+		<StreetName>אוסישקין</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>189</ID>
+		<Name>בזל</Name>
+		<Capacity>213</Capacity>
+		<Latitude>32.0905471</Latitude>
+		<Longtitude>34.780277</Longtitude>
+		<StreetName>אשתורי הפרחי</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>190</ID>
+		<Name>סעדיה גאון</Name>
+		<Capacity>68</Capacity>
+		<Latitude>32.0673807</Latitude>
+		<Longtitude>34.782355</Longtitude>
+		<StreetName>סעדיה גאון</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>191</ID>
+		<Name>שלומציון המלכה</Name>
+		<Capacity>106</Capacity>
+		<Latitude>32.0951227</Latitude>
+		<Longtitude>34.7888619</Longtitude>
+		<StreetName>שלומציון המלכה</StreetName>
+		<HouseNumber>38</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>192</ID>
+		<Name>בית לסין</Name>
+		<Capacity>123</Capacity>
+		<Latitude>32.085474</Latitude>
+		<Longtitude>34.7906577</Longtitude>
+		<StreetName>חברה חדשה</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>193</ID>
+		<Name>הפלמ&quot;ח</Name>
+		<Capacity>152</Capacity>
+		<Latitude>32.0630899</Latitude>
+		<Longtitude>34.7922025</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>68</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>194</ID>
+		<Name>ברוריה</Name>
+		<Capacity>231</Capacity>
+		<Latitude>32.0778322</Latitude>
+		<Longtitude>34.7969115</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>151</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>195</ID>
+		<Name>  1 דובנוב</Name>
+		<Capacity>125</Capacity>
+		<Latitude>32.0740978</Latitude>
+		<Longtitude>34.7836353</Longtitude>
+		<StreetName>דובנוב</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>196</ID>
+		<Name>דובנוב 2</Name>
+		<Capacity>119</Capacity>
+		<Latitude>32.0742144</Latitude>
+		<Longtitude>34.783553</Longtitude>
+		<StreetName>דובנוב</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>197</ID>
+		<Name>סולד</Name>
+		<Capacity>55</Capacity>
+		<Latitude>32.0795606</Latitude>
+		<Longtitude>34.7914095</Longtitude>
+		<StreetName>סולד הנרייטה</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>198</ID>
+		<Name>מירשם</Name>
+		<Capacity>250</Capacity>
+		<Latitude>32.1173907</Latitude>
+		<Longtitude>34.8066291</Longtitude>
+		<StreetName>קלצ'קין</StreetName>
+		<HouseNumber>25</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>199</ID>
+		<Name>מיטשל</Name>
+		<Capacity>103</Capacity>
+		<Latitude>32.117686</Latitude>
+		<Longtitude>34.8015487</Longtitude>
+		<StreetName>לבנון חיים</StreetName>
+		<HouseNumber>70</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>200</ID>
+		<Name>חנה וסע מערב רידינג</Name>
+		<Capacity>373</Capacity>
+		<Latitude>32.0875052</Latitude>
+		<Longtitude>34.8110691</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>201</ID>
+		<Name>שדה דב</Name>
+		<Capacity>287</Capacity>
+		<Latitude>32.111855</Latitude>
+		<Longtitude>34.789498</Longtitude>
+		<StreetName>אשכול לוי</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>202</ID>
+		<Name>גן הכובשים</Name>
+		<Capacity>174</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>לוי יוסף גונדר</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>203</ID>
+		<Name>מיניסטר(נאות אביב</Name>
+		<Capacity>70</Capacity>
+		<Latitude>32.0751749</Latitude>
+		<Longtitude>34.783454</Longtitude>
+		<StreetName>דובנוב</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>204</ID>
+		<Name>נאות אביב</Name>
+		<Capacity>302</Capacity>
+		<Latitude>32.0749729</Latitude>
+		<Longtitude>34.7817524</Longtitude>
+		<StreetName>אבן גבירול</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>205</ID>
+		<Name>גולדה</Name>
+		<Capacity>1022</Capacity>
+		<Latitude>32.0783676</Latitude>
+		<Longtitude>34.7877071</Longtitude>
+		<StreetName>ברקוביץ</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>206</ID>
+		<Name>גן העיר</Name>
+		<Capacity>1006</Capacity>
+		<Latitude>32.0827916</Latitude>
+		<Longtitude>34.7812155</Longtitude>
+		<StreetName>אבן גבירול</StreetName>
+		<HouseNumber>71</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>207</ID>
+		<Name></Name>
+		<Capacity>241</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>שיטרית בכור</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>208</ID>
+		<Name>הכרמל</Name>
+		<Capacity>308</Capacity>
+		<Latitude>32.023864</Latitude>
+		<Longtitude>34.7501047</Longtitude>
+		<StreetName>דניאל</StreetName>
+		<HouseNumber>26</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>209</ID>
+		<Name>בכור שיטרית 10</Name>
+		<Capacity>393</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>שיטרית בכור</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>210</ID>
+		<Name>שיטרית 6</Name>
+		<Capacity>325</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>שיטרית בכור</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>211</ID>
+		<Name>מזרח רידינג 1</Name>
+		<Capacity>53</Capacity>
+		<Latitude>32.0875052</Latitude>
+		<Longtitude>34.8110691</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>212</ID>
+		<Name>)מזרח רידינג 2גרירות</Name>
+		<Capacity>171</Capacity>
+		<Latitude>32.0875052</Latitude>
+		<Longtitude>34.8110691</Longtitude>
+		<StreetName>רוקח ישראל</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>213</ID>
+		<Name>בן סרוק 5</Name>
+		<Capacity>234</Capacity>
+		<Latitude>32.0862874</Latitude>
+		<Longtitude>34.7835451</Longtitude>
+		<StreetName>בן סרוק</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>214</ID>
+		<Name> שרתון</Name>
+		<Capacity>61</Capacity>
+		<Latitude>32.0936418</Latitude>
+		<Longtitude>34.7722735</Longtitude>
+		<StreetName>נמל תל אביב</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>215</ID>
+		<Name>אתרים 2</Name>
+		<Capacity>61</Capacity>
+		<Latitude>32.0829755</Latitude>
+		<Longtitude>34.7688638</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>133</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>216</ID>
+		<Name>פינסקר 52</Name>
+		<Capacity>22</Capacity>
+		<Latitude>32.076513</Latitude>
+		<Longtitude>34.772504</Longtitude>
+		<StreetName>פינסקר</StreetName>
+		<HouseNumber>52</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>217</ID>
+		<Name>סעדיה גאון 21</Name>
+		<Capacity>177</Capacity>
+		<Latitude>32.0678549</Latitude>
+		<Longtitude>34.782252</Longtitude>
+		<StreetName>סעדיה גאון</StreetName>
+		<HouseNumber>21</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>218</ID>
+		<Name>(הארבעה) גבעון</Name>
+		<Capacity>359</Capacity>
+		<Latitude>32.0699897</Latitude>
+		<Longtitude>34.7834751</Longtitude>
+		<StreetName>גבעון</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>219</ID>
+		<Name>(יד חרוצים 12) קרסו</Name>
+		<Capacity>191</Capacity>
+		<Latitude>32.0618997</Latitude>
+		<Longtitude>34.7826664</Longtitude>
+		<StreetName>יד חרוצים</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>220</ID>
+		<Name>מ.מ.א.</Name>
+		<Capacity>14</Capacity>
+		<Latitude>32.0642873</Latitude>
+		<Longtitude>34.7728836</Longtitude>
+		<StreetName>אחד העם</StreetName>
+		<HouseNumber>25</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>221</ID>
+		<Name>צ'לנוב</Name>
+		<Capacity>15</Capacity>
+		<Latitude>32.0594188</Latitude>
+		<Longtitude>34.7757015</Longtitude>
+		<StreetName>צ'לנוב</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>222</ID>
+		<Name>שאמלו בע&quot;מ</Name>
+		<Capacity>107</Capacity>
+		<Latitude>32.0506686</Latitude>
+		<Longtitude>34.7592973</Longtitude>
+		<StreetName>בן צבי</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>223</ID>
+		<Name>ת.מ.ח.ת</Name>
+		<Capacity>743</Capacity>
+		<Latitude>32.0566378</Latitude>
+		<Longtitude>34.7798483</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>108</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>224</ID>
+		<Name>לוינסקי 62</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0589391</Latitude>
+		<Longtitude>34.7746725</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>62</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>225</ID>
+		<Name>רח' המלאכה</Name>
+		<Capacity>259</Capacity>
+		<Latitude>32.0666351</Latitude>
+		<Longtitude>34.7845829</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>74</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>226</ID>
+		<Name>רפואת שיניים 1</Name>
+		<Capacity>100</Capacity>
+		<Latitude>32.117742</Latitude>
+		<Longtitude>34.804083</Longtitude>
+		<StreetName>קלצ'קין</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>227</ID>
+		<Name>מוהליבר 18</Name>
+		<Capacity>108</Capacity>
+		<Latitude>32.0656282</Latitude>
+		<Longtitude>34.7683078</Longtitude>
+		<StreetName>מוהליבר</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>228</ID>
+		<Name>רפואת שיניים 2</Name>
+		<Capacity>67</Capacity>
+		<Latitude>32.117742</Latitude>
+		<Longtitude>34.804083</Longtitude>
+		<StreetName>קלצ'קין</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>229</ID>
+		<Name>רוטשילד 8</Name>
+		<Capacity>7</Capacity>
+		<Latitude>32.0628132</Latitude>
+		<Longtitude>34.7698975</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>230</ID>
+		<Name>גלית</Name>
+		<Capacity>397</Capacity>
+		<Latitude>32.0600692</Latitude>
+		<Longtitude>34.7880575</Longtitude>
+		<StreetName>וינגייט</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>231</ID>
+		<Name>פנחס רוזן</Name>
+		<Capacity>143</Capacity>
+		<Latitude>32.1126007</Latitude>
+		<Longtitude>34.8252402</Longtitude>
+		<StreetName>רוזן פנחס</StreetName>
+		<HouseNumber>51</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>232</ID>
+		<Name>וולפסון</Name>
+		<Capacity>180</Capacity>
+		<Latitude>32.0597182</Latitude>
+		<Longtitude>34.8073709</Longtitude>
+		<StreetName>השלום</StreetName>
+		<HouseNumber>120</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>233</ID>
+		<Name>(הים (לגרירות</Name>
+		<Capacity>70</Capacity>
+		<Latitude>32.0683575</Latitude>
+		<Longtitude>34.764168</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>234</ID>
+		<Name>מיקוניס מנויים</Name>
+		<Capacity>12</Capacity>
+		<Latitude>32.0605234</Latitude>
+		<Longtitude>34.7845987</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>235</ID>
+		<Name>מבצע קדש</Name>
+		<Capacity>350</Capacity>
+		<Latitude>32.1166442</Latitude>
+		<Longtitude>34.8176126</Longtitude>
+		<StreetName>בני אפרים</StreetName>
+		<HouseNumber>220</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>236</ID>
+		<Name>ברנט</Name>
+		<Capacity>120</Capacity>
+		<Latitude>32.060704</Latitude>
+		<Longtitude>34.7627636</Longtitude>
+		<StreetName>ברנט</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>237</ID>
+		<Name>רובין</Name>
+		<Capacity>36</Capacity>
+		<Latitude>32.466733</Latitude>
+		<Longtitude>34.897046</Longtitude>
+		<StreetName>ת&quot;א - חיפה</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>238</ID>
+		<Name>חסן בק</Name>
+		<Capacity>150</Capacity>
+		<Latitude>32.069367</Latitude>
+		<Longtitude>34.766045</Longtitude>
+		<StreetName>הכובשים</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>239</ID>
+		<Name>מכון התקנים(גרירות)</Name>
+		<Capacity>61</Capacity>
+		<Latitude>32.108806</Latitude>
+		<Longtitude>34.803096</Longtitude>
+		<StreetName>וויז ג'ורג' ד&quot;ר</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>240</ID>
+		<Name> דרום</Name>
+		<Capacity>410</Capacity>
+		<Latitude>32.1075519</Latitude>
+		<Longtitude>34.8024682</Longtitude>
+		<StreetName>וויז ג'ורג' ד&quot;ר</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>241</ID>
+		<Name>יפו העתיקה מזרח</Name>
+		<Capacity>49</Capacity>
+		<Latitude>32.0534882</Latitude>
+		<Longtitude>34.7535174</Longtitude>
+		<StreetName>הצורפים</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>242</ID>
+		<Name>פיאצה</Name>
+		<Capacity>71</Capacity>
+		<Latitude>32.0646525</Latitude>
+		<Longtitude>34.7642962</Longtitude>
+		<StreetName>המרד</StreetName>
+		<HouseNumber>31</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>243</ID>
+		<Name>שלונסקי</Name>
+		<Capacity>84</Capacity>
+		<Latitude>32.1171992</Latitude>
+		<Longtitude>34.8178383</Longtitude>
+		<StreetName>בני אפרים</StreetName>
+		<HouseNumber>230</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>244</ID>
+		<Name>רפידים</Name>
+		<Capacity>152</Capacity>
+		<Latitude>32.1091853</Latitude>
+		<Longtitude>34.8135778</Longtitude>
+		<StreetName>רפידים</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>245</ID>
+		<Name>אבולעפיה</Name>
+		<Capacity>90</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>קבוץ גלויות</StreetName>
+		<HouseNumber>36</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>246</ID>
+		<Name>שיפמן(פיינשטיי</Name>
+		<Capacity>72</Capacity>
+		<Latitude>32.0802202</Latitude>
+		<Longtitude>34.7961313</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>160</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>247</ID>
+		<Name>פלומר</Name>
+		<Capacity>60</Capacity>
+		<Latitude>32.097443</Latitude>
+		<Longtitude>34.775308</Longtitude>
+		<StreetName>פלומר</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>248</ID>
+		<Name>  מפלס 21+22דיזנגוף סנטר</Name>
+		<Capacity>120</Capacity>
+		<Latitude>32.0749928</Latitude>
+		<Longtitude>34.7759936</Longtitude>
+		<StreetName>המלך ג'ורג'</StreetName>
+		<HouseNumber>56</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>249</ID>
+		<Name>ספיר</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.0752129</Latitude>
+		<Longtitude>34.7771484</Longtitude>
+		<StreetName>ספיר אליהו</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>250</ID>
+		<Name>טירת צבי</Name>
+		<Capacity>20</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>נתיבי אילון דרום</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>251</ID>
+		<Name>משה דיין</Name>
+		<Capacity>60</Capacity>
+		<Latitude>32.0475152</Latitude>
+		<Longtitude>34.7992041</Longtitude>
+		<StreetName>דיין משה</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>252</ID>
+		<Name>החומה</Name>
+		<Capacity>28</Capacity>
+		<Latitude>32.0639707</Latitude>
+		<Longtitude>34.7868419</Longtitude>
+		<StreetName>חומה ומגדל</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>253</ID>
+		<Name>אהרון חניונים</Name>
+		<Capacity>37</Capacity>
+		<Latitude>32.0641342</Latitude>
+		<Longtitude>34.7875052</Longtitude>
+		<StreetName>בית עובד</StreetName>
+		<HouseNumber>10</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>254</ID>
+		<Name></Name>
+		<Capacity>35</Capacity>
+		<Latitude>32.0599096</Latitude>
+		<Longtitude>34.7816394</Longtitude>
+		<StreetName>הגר&quot;א</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>255</ID>
+		<Name>סמייל(הגימנסיה</Name>
+		<Capacity>76</Capacity>
+		<Latitude>32.0879463</Latitude>
+		<Longtitude>34.7831853</Longtitude>
+		<StreetName>ז'בוטינסקי</StreetName>
+		<HouseNumber>94</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>256</ID>
+		<Name>נמיר</Name>
+		<Capacity>72</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>נמיר מרדכי</StreetName>
+		<HouseNumber>81</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>257</ID>
+		<Name>לוינסקי</Name>
+		<Capacity>106</Capacity>
+		<Latitude>32.0598073</Latitude>
+		<Longtitude>34.7716334</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>39</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>258</ID>
+		<Name>בית ויקטוריה</Name>
+		<Capacity>287</Capacity>
+		<Latitude>32.0665843</Latitude>
+		<Longtitude>34.7852876</Longtitude>
+		<StreetName>המלאכה</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>259</ID>
+		<Name>מגדל אלרוב</Name>
+		<Capacity>281</Capacity>
+		<Latitude>32.063873</Latitude>
+		<Longtitude>34.7746154</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>46</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>260</ID>
+		<Name>גניס 3</Name>
+		<Capacity>54</Capacity>
+		<Latitude>32.0705408</Latitude>
+		<Longtitude>34.7921526</Longtitude>
+		<StreetName>קארו יוסף</StreetName>
+		<HouseNumber>29</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>261</ID>
+		<Name>אי.בי.סי</Name>
+		<Capacity>530</Capacity>
+		<Latitude>32.0619863</Latitude>
+		<Longtitude>34.7889187</Longtitude>
+		<StreetName>השלושה</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>262</ID>
+		<Name>בית פסגות</Name>
+		<Capacity>324</Capacity>
+		<Latitude>32.0635102</Latitude>
+		<Longtitude>34.7689614</Longtitude>
+		<StreetName>אחד העם</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>263</ID>
+		<Name>רובע לב העיר</Name>
+		<Capacity>234</Capacity>
+		<Latitude>32.0680873</Latitude>
+		<Longtitude>34.7724509</Longtitude>
+		<StreetName>בלפור</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>264</ID>
+		<Name>קרדן</Name>
+		<Capacity>291</Capacity>
+		<Latitude>32.0799201</Latitude>
+		<Longtitude>34.7956387</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>154</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>265</ID>
+		<Name>טופ-דן</Name>
+		<Capacity>395</Capacity>
+		<Latitude>32.114599</Latitude>
+		<Longtitude>34.8254665</Longtitude>
+		<StreetName>רוזן פנחס</StreetName>
+		<HouseNumber>72</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>266</ID>
+		<Name>מגדל הפלטינום</Name>
+		<Capacity>85</Capacity>
+		<Latitude>32.0709679</Latitude>
+		<Longtitude>34.7880649</Longtitude>
+		<StreetName>אלעזר דוד</StreetName>
+		<HouseNumber>34</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>267</ID>
+		<Name>אשדר 2000</Name>
+		<Capacity>51</Capacity>
+		<Latitude>32.0632224</Latitude>
+		<Longtitude>34.7920918</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>57</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>268</ID>
+		<Name>מגדל לוינשטיין</Name>
+		<Capacity>398</Capacity>
+		<Latitude>32.0636212</Latitude>
+		<Longtitude>34.7800457</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>23</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>269</ID>
+		<Name>עמגר</Name>
+		<Capacity>291</Capacity>
+		<Latitude>32.0626953</Latitude>
+		<Longtitude>34.7822943</Longtitude>
+		<StreetName>ריב&quot;ל</StreetName>
+		<HouseNumber>7</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>270</ID>
+		<Name>טל ומטר</Name>
+		<Capacity>146</Capacity>
+		<Latitude>32.076846</Latitude>
+		<Longtitude>34.7671115</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>78</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>271</ID>
+		<Name>מלון אינטרקונטיננטל</Name>
+		<Capacity>390</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>לוי יוסף גונדר</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>272</ID>
+		<Name>קידמת אילון</Name>
+		<Capacity>115</Capacity>
+		<Latitude>32.0668592</Latitude>
+		<Longtitude>34.7942099</Longtitude>
+		<StreetName>קרמניצקי</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>273</ID>
+		<Name>מגדלי תל אביב</Name>
+		<Capacity>355</Capacity>
+		<Latitude>32.074601</Latitude>
+		<Longtitude>34.7981435</Longtitude>
+		<StreetName>נחלת יצחק</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>274</ID>
+		<Name>שפירא</Name>
+		<Capacity>23</Capacity>
+		<Latitude>32.0508919</Latitude>
+		<Longtitude>34.7739353</Longtitude>
+		<StreetName>הר ציון</StreetName>
+		<HouseNumber>105</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>275</ID>
+		<Name>שמאי</Name>
+		<Capacity>19</Capacity>
+		<Latitude>32.0698301</Latitude>
+		<Longtitude>34.788942</Longtitude>
+		<StreetName>בית שמאי</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>276</ID>
+		<Name>אלחנן</Name>
+		<Capacity>21</Capacity>
+		<Latitude>32.0558457</Latitude>
+		<Longtitude>34.781632</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>126</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>277</ID>
+		<Name>בית נ.י.פ</Name>
+		<Capacity>544</Capacity>
+		<Latitude>32.0659204</Latitude>
+		<Longtitude>34.7864495</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>39</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>278</ID>
+		<Name>מגדלי רובינשטיין</Name>
+		<Capacity>657</Capacity>
+		<Latitude>32.0648701</Latitude>
+		<Longtitude>34.7822653</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>37</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>279</ID>
+		<Name>מנדלר ב</Name>
+		<Capacity>30</Capacity>
+		<Latitude>32.072819</Latitude>
+		<Longtitude>34.7870965</Longtitude>
+		<StreetName>מנדלר אלברט</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>280</ID>
+		<Name>מנדלר א</Name>
+		<Capacity>56</Capacity>
+		<Latitude>32.0727938</Latitude>
+		<Longtitude>34.7861601</Longtitude>
+		<StreetName>ארניה אוסוולדו</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>281</ID>
+		<Name>נמל תל אביב</Name>
+		<Capacity>370</Capacity>
+		<Latitude>32.0963307</Latitude>
+		<Longtitude>34.7739447</Longtitude>
+		<StreetName>כ&quot;ג יורדי הסירה</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>282</ID>
+		<Name>מגדלי זיו</Name>
+		<Capacity>1247</Capacity>
+		<Latitude>32.1115169</Latitude>
+		<Longtitude>34.838829</Longtitude>
+		<StreetName>ולנברג ראול</StreetName>
+		<HouseNumber>24</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>283</ID>
+		<Name>בית רילון</Name>
+		<Capacity>111</Capacity>
+		<Latitude>32.0624196</Latitude>
+		<Longtitude>34.790661</Longtitude>
+		<StreetName>נירים</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>284</ID>
+		<Name>מגדל המילניום</Name>
+		<Capacity>78</Capacity>
+		<Latitude>32.0713521</Latitude>
+		<Longtitude>34.7861174</Longtitude>
+		<StreetName>ארניה אוסוולדו</StreetName>
+		<HouseNumber>23</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>285</ID>
+		<Name>מנורות</Name>
+		<Capacity>45</Capacity>
+		<Latitude>32.096799</Latitude>
+		<Longtitude>34.7748309</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>306</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>286</ID>
+		<Name>השרון</Name>
+		<Capacity>21</Capacity>
+		<Latitude>32.0616318</Latitude>
+		<Longtitude>34.7784616</Longtitude>
+		<StreetName>השרון</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>287</ID>
+		<Name>הגדוד העברי 35</Name>
+		<Capacity>43</Capacity>
+		<Latitude>32.0587687</Latitude>
+		<Longtitude>34.7785246</Longtitude>
+		<StreetName>הגדוד העברי</StreetName>
+		<HouseNumber>35</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>288</ID>
+		<Name>הילטון 2</Name>
+		<Capacity>277</Capacity>
+		<Latitude>32.0933134</Latitude>
+		<Longtitude>34.7735168</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>241</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>289</ID>
+		<Name></Name>
+		<Capacity>80</Capacity>
+		<Latitude>32.056107</Latitude>
+		<Longtitude>34.783636</Longtitude>
+		<StreetName>שדה יצחק</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>290</ID>
+		<Name>לאונרדו</Name>
+		<Capacity>112</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>דה וינצ'י לאונרד</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>291</ID>
+		<Name>אלפסי</Name>
+		<Capacity>30</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>אלפסי יצחק</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>292</ID>
+		<Name>בית פנורמה</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.0506686</Latitude>
+		<Longtitude>34.7592973</Longtitude>
+		<StreetName>בן צבי</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>293</ID>
+		<Name>בית צורי</Name>
+		<Capacity>400</Capacity>
+		<Latitude>32.1229372</Latitude>
+		<Longtitude>34.8005412</Longtitude>
+		<StreetName>בית צורי אליהו</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>294</ID>
+		<Name>הבעש&quot;ט</Name>
+		<Capacity>80</Capacity>
+		<Latitude>32.0365596</Latitude>
+		<Longtitude>34.7492136</Longtitude>
+		<StreetName>יפת</StreetName>
+		<HouseNumber>171</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>295</ID>
+		<Name>לבון</Name>
+		<Capacity>80</Capacity>
+		<Latitude>32.046635</Latitude>
+		<Longtitude>34.772343</Longtitude>
+		<StreetName>כהן עופר</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>296</ID>
+		<Name>מטודלה</Name>
+		<Capacity>65</Capacity>
+		<Latitude>32.1096723</Latitude>
+		<Longtitude>34.8272514</Longtitude>
+		<StreetName>בנימין מטודלה</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>297</ID>
+		<Name>נחושת</Name>
+		<Capacity>373</Capacity>
+		<Latitude>32.1099194</Latitude>
+		<Longtitude>34.8383742</Longtitude>
+		<StreetName>הנחושת</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>298</ID>
+		<Name>פליטי הספר</Name>
+		<Capacity>32</Capacity>
+		<Latitude>32.0667478</Latitude>
+		<Longtitude>34.8016935</Longtitude>
+		<StreetName>פליטי הספר</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>299</ID>
+		<Name>שער ציון</Name>
+		<Capacity>85</Capacity>
+		<Latitude>32.095689</Latitude>
+		<Longtitude>34.773783</Longtitude>
+		<StreetName>שער ציון</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>300</ID>
+		<Name>צבי נשרי</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0538928</Latitude>
+		<Longtitude>34.8002507</Longtitude>
+		<StreetName>דיין משה</StreetName>
+		<HouseNumber>54</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>301</ID>
+		<Name>שפך הירקון</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>יקותיאלי יוסף</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>302</ID>
+		<Name>אוסישקין 2</Name>
+		<Capacity>44</Capacity>
+		<Latitude>32.0971013</Latitude>
+		<Longtitude>34.7766202</Longtitude>
+		<StreetName>אוסישקין</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>303</ID>
+		<Name>השנית</Name>
+		<Capacity>107</Capacity>
+		<Latitude>32.0632747</Latitude>
+		<Longtitude>34.7647422</Longtitude>
+		<StreetName>עין יעקב</StreetName>
+		<HouseNumber>23</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>304</ID>
+		<Name>ראובני</Name>
+		<Capacity>11</Capacity>
+		<Latitude>31.9631925</Latitude>
+		<Longtitude>34.8130255</Longtitude>
+		<StreetName>הראובני דוד</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>305</ID>
+		<Name>אלעזר</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.061404</Latitude>
+		<Longtitude>34.7632487</Longtitude>
+		<StreetName>אלעזר (רוקח)</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>306</ID>
+		<Name>חניון קסם</Name>
+		<Capacity>14</Capacity>
+		<Latitude>32.0579054</Latitude>
+		<Longtitude>34.7719707</Longtitude>
+		<StreetName>נחלת בנימין</StreetName>
+		<HouseNumber>108</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>307</ID>
+		<Name></Name>
+		<Capacity>189</Capacity>
+		<Latitude>32.0701257</Latitude>
+		<Longtitude>34.7648253</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>19</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>308</ID>
+		<Name>שחר</Name>
+		<Capacity>24</Capacity>
+		<Latitude>32.0590006</Latitude>
+		<Longtitude>34.7804796</Longtitude>
+		<StreetName>יסוד המעלה</StreetName>
+		<HouseNumber>20</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>309</ID>
+		<Name>סרג'י</Name>
+		<Capacity>13</Capacity>
+		<Latitude>32.057706</Latitude>
+		<Longtitude>34.7798194</Longtitude>
+		<StreetName>ראש פינה</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>310</ID>
+		<Name>שטיין אברהם</Name>
+		<Capacity>28</Capacity>
+		<Latitude>32.0694878</Latitude>
+		<Longtitude>34.7637951</Longtitude>
+		<StreetName>נחמיה</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>311</ID>
+		<Name>שחר 2</Name>
+		<Capacity>16</Capacity>
+		<Latitude>32.0645208</Latitude>
+		<Longtitude>34.7689355</Longtitude>
+		<StreetName>השחר</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>312</ID>
+		<Name>בית קלקא 1</Name>
+		<Capacity>10</Capacity>
+		<Latitude>32.0716978</Latitude>
+		<Longtitude>34.7899989</Longtitude>
+		<StreetName>איסרליש</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>313</ID>
+		<Name>מרכז ויצמן</Name>
+		<Capacity>2300</Capacity>
+		<Latitude>32.0824394</Latitude>
+		<Longtitude>34.7890516</Longtitude>
+		<StreetName>ויצמן</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>314</ID>
+		<Name>נחלת יצחק 3</Name>
+		<Capacity>13</Capacity>
+		<Latitude>32.0752731</Latitude>
+		<Longtitude>34.7960806</Longtitude>
+		<StreetName>נחלת יצחק</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>315</ID>
+		<Name>משי</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0562267</Latitude>
+		<Longtitude>34.7713305</Longtitude>
+		<StreetName>פלורנטין</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>316</ID>
+		<Name>נמל יפו 1</Name>
+		<Capacity>64</Capacity>
+		<Latitude>32.172381</Latitude>
+		<Longtitude>34.847492</Longtitude>
+		<StreetName>העליה השניה</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>317</ID>
+		<Name>מגדלי טויוטה</Name>
+		<Capacity>415</Capacity>
+		<Latitude>32.0654963</Latitude>
+		<Longtitude>34.7924763</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>63</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>318</ID>
+		<Name>בית הלל</Name>
+		<Capacity>13</Capacity>
+		<Latitude>32.0693625</Latitude>
+		<Longtitude>34.7907875</Longtitude>
+		<StreetName>בית הלל</StreetName>
+		<HouseNumber>17</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>319</ID>
+		<Name>ברושים</Name>
+		<Capacity>95</Capacity>
+		<Latitude>32.0703236</Latitude>
+		<Longtitude>34.786571</Longtitude>
+		<StreetName>הארבעה</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>320</ID>
+		<Name>המסגר</Name>
+		<Capacity>36</Capacity>
+		<Latitude>32.0649167</Latitude>
+		<Longtitude>34.7862125</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>42</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>321</ID>
+		<Name>הרצל 108</Name>
+		<Capacity>73</Capacity>
+		<Latitude>32.0553391</Latitude>
+		<Longtitude>34.7708343</Longtitude>
+		<StreetName>הרצל</StreetName>
+		<HouseNumber>108</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>322</ID>
+		<Name>חצרות יפו</Name>
+		<Capacity>162</Capacity>
+		<Latitude>32.0548513</Latitude>
+		<Longtitude>34.7605041</Longtitude>
+		<StreetName>שלמה</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>323</ID>
+		<Name>מגדל המוזיאון</Name>
+		<Capacity>457</Capacity>
+		<Latitude>32.0781145</Latitude>
+		<Longtitude>34.7866816</Longtitude>
+		<StreetName>ברקוביץ</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>324</ID>
+		<Name>תחנת הכח</Name>
+		<Capacity>166</Capacity>
+		<Latitude>32.066158</Latitude>
+		<Longtitude>34.777819</Longtitude>
+		<StreetName>יקותיאלי יוסף</StreetName>
+		<HouseNumber></HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>325</ID>
+		<Name>שוק עמיעד</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.0533658</Latitude>
+		<Longtitude>34.7558557</Longtitude>
+		<StreetName>עמיעד</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>326</ID>
+		<Name>הצלחה</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0662368</Latitude>
+		<Longtitude>34.7689071</Longtitude>
+		<StreetName>מוהליבר</StreetName>
+		<HouseNumber>31</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>327</ID>
+		<Name>גן לונדון</Name>
+		<Capacity>520</Capacity>
+		<Latitude>32.0775822</Latitude>
+		<Longtitude>34.7673734</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>83</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>328</ID>
+		<Name>גניס</Name>
+		<Capacity>26</Capacity>
+		<Latitude>32.0740187</Latitude>
+		<Longtitude>34.8001324</Longtitude>
+		<StreetName>נחלת יצחק</StreetName>
+		<HouseNumber>34</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>329</ID>
+		<Name>ראם</Name>
+		<Capacity>51</Capacity>
+		<Latitude>32.0676263</Latitude>
+		<Longtitude>34.788984</Longtitude>
+		<StreetName>ראם</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>330</ID>
+		<Name>אמפא המסגר</Name>
+		<Capacity>337</Capacity>
+		<Latitude>32.0618653</Latitude>
+		<Longtitude>34.7848084</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>331</ID>
+		<Name>פנינת הסיטי</Name>
+		<Capacity>114</Capacity>
+		<Latitude>32.0626363</Latitude>
+		<Longtitude>34.7793771</Longtitude>
+		<StreetName>השרון</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>332</ID>
+		<Name>מוזס 1</Name>
+		<Capacity>159</Capacity>
+		<Latitude>32.0763681</Latitude>
+		<Longtitude>34.7923769</Longtitude>
+		<StreetName>מוזס יהודה ונח</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>333</ID>
+		<Name>סמולרס</Name>
+		<Capacity>502</Capacity>
+		<Latitude>32.1074624</Latitude>
+		<Longtitude>34.8024253</Longtitude>
+		<StreetName>וויז ג'ורג' ד&quot;ר</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>334</ID>
+		<Name>עתיד</Name>
+		<Capacity>50</Capacity>
+		<Latitude>32.0573264</Latitude>
+		<Longtitude>34.7838607</Longtitude>
+		<StreetName>החרש</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>335</ID>
+		<Name>בית מרס</Name>
+		<Capacity>68</Capacity>
+		<Latitude>32.8250994</Latitude>
+		<Longtitude>34.9881398</Longtitude>
+		<StreetName>3426</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>336</ID>
+		<Name>שבזי</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0615027</Latitude>
+		<Longtitude>34.7639268</Longtitude>
+		<StreetName>שבזי</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>337</ID>
+		<Name>  מגדל אירופה ישראל</Name>
+		<Capacity>81</Capacity>
+		<Latitude>32.0775747</Latitude>
+		<Longtitude>34.7886062</Longtitude>
+		<StreetName>ויצמן</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>338</ID>
+		<Name>תמנע</Name>
+		<Capacity>196</Capacity>
+		<Latitude>32.0715313</Latitude>
+		<Longtitude>34.7853496</Longtitude>
+		<StreetName>מגן קלמן</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>339</ID>
+		<Name>מור</Name>
+		<Capacity>11</Capacity>
+		<Latitude>32.0530007</Latitude>
+		<Longtitude>34.7709336</Longtitude>
+		<StreetName>הסדנה</StreetName>
+		<HouseNumber>17</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>340</ID>
+		<Name>הברזל 1</Name>
+		<Capacity>23</Capacity>
+		<Latitude>32.1065506</Latitude>
+		<Longtitude>34.8341467</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>341</ID>
+		<Name>קרית הממשלה</Name>
+		<Capacity>389</Capacity>
+		<Latitude>32.0727719</Latitude>
+		<Longtitude>34.7899165</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>125</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>342</ID>
+		<Name>גיא</Name>
+		<Capacity>44</Capacity>
+		<Latitude>32.0684599</Latitude>
+		<Longtitude>34.7873865</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>63</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>343</ID>
+		<Name>גינת השרון</Name>
+		<Capacity>209</Capacity>
+		<Latitude>32.0611908</Latitude>
+		<Longtitude>34.7754922</Longtitude>
+		<StreetName>החשמל</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>344</ID>
+		<Name></Name>
+		<Capacity>266</Capacity>
+		<Latitude>32.0744025</Latitude>
+		<Longtitude>34.7954276</Longtitude>
+		<StreetName>אלון יגאל</StreetName>
+		<HouseNumber>126</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>345</ID>
+		<Name>התיכון</Name>
+		<Capacity>348</Capacity>
+		<Latitude>32.0703799</Latitude>
+		<Longtitude>34.7866995</Longtitude>
+		<StreetName>הארבעה</StreetName>
+		<HouseNumber>19</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>346</ID>
+		<Name>שער ליפו</Name>
+		<Capacity>150</Capacity>
+		<Latitude>32.0563064</Latitude>
+		<Longtitude>34.7569911</Longtitude>
+		<StreetName>גולדמן נחום</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>347</ID>
+		<Name>דוד חכמי</Name>
+		<Capacity>15</Capacity>
+		<Latitude>32.0632404</Latitude>
+		<Longtitude>34.7839373</Longtitude>
+		<StreetName>חכמי דוד</StreetName>
+		<HouseNumber>17</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>348</ID>
+		<Name>אגסי</Name>
+		<Capacity>45</Capacity>
+		<Latitude>32.0701462</Latitude>
+		<Longtitude>34.7642349</Longtitude>
+		<StreetName>עזרא הסופר</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>349</ID>
+		<Name>דפנה 6</Name>
+		<Capacity>114</Capacity>
+		<Latitude>32.0783791</Latitude>
+		<Longtitude>34.7896465</Longtitude>
+		<StreetName>דפנה</StreetName>
+		<HouseNumber>6</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>350</ID>
+		<Name>חניון סוכנות</Name>
+		<Capacity>42</Capacity>
+		<Latitude>32.0737601</Latitude>
+		<Longtitude>34.783659</Longtitude>
+		<StreetName>דובנוב</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>351</ID>
+		<Name>הרצל</Name>
+		<Capacity>11</Capacity>
+		<Latitude>32.0565991</Latitude>
+		<Longtitude>34.7708286</Longtitude>
+		<StreetName>הרצל</StreetName>
+		<HouseNumber>75</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>352</ID>
+		<Name>יסוד המעלה 2</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0567106</Latitude>
+		<Longtitude>34.7813361</Longtitude>
+		<StreetName>יסוד המעלה</StreetName>
+		<HouseNumber>59</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>353</ID>
+		<Name>מאיה1</Name>
+		<Capacity>31</Capacity>
+		<Latitude>32.0637242</Latitude>
+		<Longtitude>34.7707359</Longtitude>
+		<StreetName>אחד העם</StreetName>
+		<HouseNumber>24</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>354</ID>
+		<Name>שרתון 2</Name>
+		<Capacity>32</Capacity>
+		<Latitude>32.0946039</Latitude>
+		<Longtitude>34.7726721</Longtitude>
+		<StreetName>נמל תל אביב</StreetName>
+		<HouseNumber>14</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>355</ID>
+		<Name>ש.א.א. חניונים</Name>
+		<Capacity>52</Capacity>
+		<Latitude>32.0942382</Latitude>
+		<Longtitude>34.7725019</Longtitude>
+		<StreetName>נמל תל אביב</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>356</ID>
+		<Name>בית פירמידה</Name>
+		<Capacity>125</Capacity>
+		<Latitude>32.0645535</Latitude>
+		<Longtitude>34.7860599</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>38</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>357</ID>
+		<Name>הלוחמים 1</Name>
+		<Capacity>160</Capacity>
+		<Latitude>32.0297158</Latitude>
+		<Longtitude>34.7716149</Longtitude>
+		<StreetName>הלוחמים</StreetName>
+		<HouseNumber>11</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>358</ID>
+		<Name>המערכה</Name>
+		<Capacity>55</Capacity>
+		<Latitude>32.0616375</Latitude>
+		<Longtitude>34.7934391</Longtitude>
+		<StreetName>המערכה</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>359</ID>
+		<Name>אליפלט</Name>
+		<Capacity>175</Capacity>
+		<Latitude>32.0551781</Latitude>
+		<Longtitude>34.76505</Longtitude>
+		<StreetName>אליפלט</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>360</ID>
+		<Name>(אתרים ירוקים (גרירה</Name>
+		<Capacity>120</Capacity>
+		<Latitude>32.0566378</Latitude>
+		<Longtitude>34.7798483</Longtitude>
+		<StreetName>לוינסקי</StreetName>
+		<HouseNumber>108</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>361</ID>
+		<Name>אם.אנד.די ריל אסטייט בע&quot;מ</Name>
+		<Capacity>49</Capacity>
+		<Latitude>32.0632207</Latitude>
+		<Longtitude>34.772372</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>28</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>362</ID>
+		<Name>אליאנס</Name>
+		<Capacity>57</Capacity>
+		<Latitude>32.1066896</Latitude>
+		<Longtitude>34.794188</Longtitude>
+		<StreetName>רדינג</StreetName>
+		<HouseNumber>26</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>363</ID>
+		<Name>גניס 2</Name>
+		<Capacity>17</Capacity>
+		<Latitude>32.0875689</Latitude>
+		<Longtitude>34.7838109</Longtitude>
+		<StreetName>בן סרוק</StreetName>
+		<HouseNumber>27</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>364</ID>
+		<Name>מגדלי אור</Name>
+		<Capacity>110</Capacity>
+		<Latitude>32.10953</Latitude>
+		<Longtitude>34.8405266</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>27</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>365</ID>
+		<Name>שונצינו 5</Name>
+		<Capacity>21</Capacity>
+		<Latitude>32.0659934</Latitude>
+		<Longtitude>34.7873832</Longtitude>
+		<StreetName>שונצינו</StreetName>
+		<HouseNumber>5</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>366</ID>
+		<Name>פינסקר</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0753564</Latitude>
+		<Longtitude>34.7713245</Longtitude>
+		<StreetName>פינסקר</StreetName>
+		<HouseNumber>34</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>367</ID>
+		<Name>חניון 1/4 חינם</Name>
+		<Capacity>879</Capacity>
+		<Latitude>32.0693511</Latitude>
+		<Longtitude>34.785783</Longtitude>
+		<StreetName>החשמונאים</StreetName>
+		<HouseNumber>96</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>368</ID>
+		<Name>גרשון</Name>
+		<Capacity>26</Capacity>
+		<Latitude>32.0687729</Latitude>
+		<Longtitude>34.7899678</Longtitude>
+		<StreetName>הנצי&quot;ב</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>369</ID>
+		<Name>מאיה</Name>
+		<Capacity>80</Capacity>
+		<Latitude>32.0553276</Latitude>
+		<Longtitude>34.7669676</Longtitude>
+		<StreetName>אברבנאל</StreetName>
+		<HouseNumber>76</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>370</ID>
+		<Name>הצלחה</Name>
+		<Capacity>70</Capacity>
+		<Latitude>32.0684504</Latitude>
+		<Longtitude>34.7645998</Longtitude>
+		<StreetName>דניאל</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>371</ID>
+		<Name>בית מבני גזית</Name>
+		<Capacity>98</Capacity>
+		<Latitude>32.0790159</Latitude>
+		<Longtitude>34.7944709</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>148</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>372</ID>
+		<Name>השוק הסיטונאי</Name>
+		<Capacity>156</Capacity>
+		<Latitude>32.0679339</Latitude>
+		<Longtitude>34.7859114</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>61</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>373</ID>
+		<Name>הברזל</Name>
+		<Capacity>367</Capacity>
+		<Latitude>32.1104641</Latitude>
+		<Longtitude>34.8417456</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>38</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>374</ID>
+		<Name>השוק</Name>
+		<Capacity>36</Capacity>
+		<Latitude>32.0567061</Latitude>
+		<Longtitude>34.7713085</Longtitude>
+		<StreetName>השוק</StreetName>
+		<HouseNumber>48</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>375</ID>
+		<Name></Name>
+		<Capacity>11</Capacity>
+		<Latitude>32.0729861</Latitude>
+		<Longtitude>34.7651728</Longtitude>
+		<StreetName>יונה הנביא</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>376</ID>
+		<Name></Name>
+		<Capacity>9</Capacity>
+		<Latitude>32.0961865</Latitude>
+		<Longtitude>34.7748693</Longtitude>
+		<StreetName>כ&quot;ג יורדי הסירה</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>377</ID>
+		<Name>נס ציונה</Name>
+		<Capacity>20</Capacity>
+		<Latitude>31.9261608</Latitude>
+		<Longtitude>34.7960129</Longtitude>
+		<StreetName>נס ציונה</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>378</ID>
+		<Name>בית הכהנים</Name>
+		<Capacity>66</Capacity>
+		<Latitude>32.0794779</Latitude>
+		<Longtitude>34.7814991</Longtitude>
+		<StreetName>צייטלין</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>379</ID>
+		<Name>זלוטופולסקי</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0886527</Latitude>
+		<Longtitude>34.7724991</Longtitude>
+		<StreetName>זלטופולסקי</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>380</ID>
+		<Name>בגין מנחם 144</Name>
+		<Capacity>437</Capacity>
+		<Latitude>32.0781224</Latitude>
+		<Longtitude>34.7932952</Longtitude>
+		<StreetName>בגין מנחם</StreetName>
+		<HouseNumber>144</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>381</ID>
+		<Name>חניון התחבורה</Name>
+		<Capacity>230</Capacity>
+		<Latitude>32.0722897</Latitude>
+		<Longtitude>34.7880861</Longtitude>
+		<StreetName>אלעזר דוד</StreetName>
+		<HouseNumber>13</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>382</ID>
+		<Name>הרב קוק</Name>
+		<Capacity>22</Capacity>
+		<Latitude>32.0717463</Latitude>
+		<Longtitude>34.7647353</Longtitude>
+		<StreetName>הרב קוק</StreetName>
+		<HouseNumber>3</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>383</ID>
+		<Name>ח.מ - בע&quot;מ</Name>
+		<Capacity>94</Capacity>
+		<Latitude>32.1093084</Latitude>
+		<Longtitude>34.8366557</Longtitude>
+		<StreetName>ולנברג ראול</StreetName>
+		<HouseNumber>16</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>384</ID>
+		<Name>יבנה</Name>
+		<Capacity>7</Capacity>
+		<Latitude>32.0670033</Latitude>
+		<Longtitude>34.7723944</Longtitude>
+		<StreetName>יבנה</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>385</ID>
+		<Name>סי אנד סאן</Name>
+		<Capacity>210</Capacity>
+		<Latitude>32.080846</Latitude>
+		<Longtitude>34.8189285</Longtitude>
+		<StreetName>רוזנבלום הרצל ד&quot;ר</StreetName>
+		<HouseNumber>9</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>386</ID>
+		<Name>האמץ</Name>
+		<Capacity>120</Capacity>
+		<Latitude>32.0525126</Latitude>
+		<Longtitude>34.7619508</Longtitude>
+		<StreetName>שארית ישראל</StreetName>
+		<HouseNumber>19</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>387</ID>
+		<Name>אתרים ירוקים (גרירה)</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.0548634</Latitude>
+		<Longtitude>34.7690974</Longtitude>
+		<StreetName>שלמה</StreetName>
+		<HouseNumber>54</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>388</ID>
+		<Name>אוגדן</Name>
+		<Capacity>137</Capacity>
+		<Latitude>32.1245326</Latitude>
+		<Longtitude>34.8040885</Longtitude>
+		<StreetName>אחימאיר אבא</StreetName>
+		<HouseNumber>31</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>389</ID>
+		<Name>בן יוסף 2</Name>
+		<Capacity>60</Capacity>
+		<Latitude>32.1242717</Latitude>
+		<Longtitude>34.797907</Longtitude>
+		<StreetName>בן יוסף שלמה</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>390</ID>
+		<Name>ברזאני</Name>
+		<Capacity>40</Capacity>
+		<Latitude>32.1278552</Latitude>
+		<Longtitude>34.7973256</Longtitude>
+		<StreetName>ברזאני משה</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>391</ID>
+		<Name>עיר שמש</Name>
+		<Capacity>74</Capacity>
+		<Latitude>32.124579</Latitude>
+		<Longtitude>34.8273236</Longtitude>
+		<StreetName>עיר שמש</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>392</ID>
+		<Name>הרב קוק</Name>
+		<Capacity>0</Capacity>
+		<Latitude>32.0707722</Latitude>
+		<Longtitude>34.7680596</Longtitude>
+		<StreetName>הרב קוק</StreetName>
+		<HouseNumber>42</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>393</ID>
+		<Name>אולימפיה</Name>
+		<Capacity>28</Capacity>
+		<Latitude>32.0848315</Latitude>
+		<Longtitude>34.7698117</Longtitude>
+		<StreetName>הירקון</StreetName>
+		<HouseNumber>162</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>394</ID>
+		<Name>רוטשילד</Name>
+		<Capacity>41</Capacity>
+		<Latitude>32.0267596</Latitude>
+		<Longtitude>34.7457208</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>22</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>395</ID>
+		<Name>ריב&quot;ל 34</Name>
+		<Capacity>82</Capacity>
+		<Latitude>32.0620698</Latitude>
+		<Longtitude>34.7856502</Longtitude>
+		<StreetName>ריב&quot;ל</StreetName>
+		<HouseNumber>34</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>396</ID>
+		<Name>פירמידה</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0948363</Latitude>
+		<Longtitude>34.773484</Longtitude>
+		<StreetName>הושע</StreetName>
+		<HouseNumber>12</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>397</ID>
+		<Name>המסגר</Name>
+		<Capacity>136</Capacity>
+		<Latitude>32.0649896</Latitude>
+		<Longtitude>34.7861357</Longtitude>
+		<StreetName>המסגר</StreetName>
+		<HouseNumber>37</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>398</ID>
+		<Name>חניון 18</Name>
+		<Capacity>18</Capacity>
+		<Latitude>32.0889317</Latitude>
+		<Longtitude>34.7726483</Longtitude>
+		<StreetName>זלטופולסקי</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>399</ID>
+		<Name>הברזל 15</Name>
+		<Capacity>102</Capacity>
+		<Latitude>32.1077092</Latitude>
+		<Longtitude>34.8376408</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>15</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>400</ID>
+		<Name>הברזל</Name>
+		<Capacity>165</Capacity>
+		<Latitude>32.1095661</Latitude>
+		<Longtitude>34.8405767</Longtitude>
+		<StreetName>הברזל</StreetName>
+		<HouseNumber>30</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>401</ID>
+		<Name>בית הבנק הבינלאומי</Name>
+		<Capacity>372</Capacity>
+		<Latitude>32.0636752</Latitude>
+		<Longtitude>34.7739532</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>40</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>402</ID>
+		<Name>בזק</Name>
+		<Capacity>50</Capacity>
+		<Latitude>32.0671746</Latitude>
+		<Longtitude>34.7795549</Longtitude>
+		<StreetName>יהודה הלוי</StreetName>
+		<HouseNumber>72</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>403</ID>
+		<Name>הרכבת</Name>
+		<Capacity>20</Capacity>
+		<Latitude>32.0635307</Latitude>
+		<Longtitude>34.777623</Longtitude>
+		<StreetName>הרכבת</StreetName>
+		<HouseNumber>18</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>404</ID>
+		<Name>אגסי 3</Name>
+		<Capacity>106</Capacity>
+		<Latitude>32.0687525</Latitude>
+		<Longtitude>34.7635053</Longtitude>
+		<StreetName>דניאל</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>405</ID>
+		<Name>נמל יפו 1</Name>
+		<Capacity>681</Capacity>
+		<Latitude>32.0516044</Latitude>
+		<Longtitude>34.750065</Longtitude>
+		<StreetName>נמל יפו</StreetName>
+		<HouseNumber>0</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>406</ID>
+		<Name>הרובע</Name>
+		<Capacity>125</Capacity>
+		<Latitude>32.0529307</Latitude>
+		<Longtitude>34.754803</Longtitude>
+		<StreetName>רבי פנחס</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>407</ID>
+		<Name>טרומפלדור</Name>
+		<Capacity>25</Capacity>
+		<Latitude>32.0754796</Latitude>
+		<Longtitude>34.766228</Longtitude>
+		<StreetName>טרומפלדור</StreetName>
+		<HouseNumber>4</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>408</ID>
+		<Name>המנור 2</Name>
+		<Capacity>15</Capacity>
+		<Latitude>32.0516305</Latitude>
+		<Longtitude>34.7715135</Longtitude>
+		<StreetName>המנור</StreetName>
+		<HouseNumber>2</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>409</ID>
+		<Name>היסוד</Name>
+		<Capacity>48</Capacity>
+		<Latitude>32.0515245</Latitude>
+		<Longtitude>34.766364</Longtitude>
+		<StreetName>היסוד</StreetName>
+		<HouseNumber>8</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>410</ID>
+		<Name>חניון התרבות</Name>
+		<Capacity>997</Capacity>
+		<Latitude>32.072917</Latitude>
+		<Longtitude>34.780339</Longtitude>
+		<StreetName>הוברמן</StreetName>
+		<HouseNumber>1</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+
+	<Parking>
+		<ID>411</ID>
+		<Name>גיא</Name>
+		<Capacity>81</Capacity>
+		<Latitude>32.0644145</Latitude>
+		<Longtitude>34.7758475</Longtitude>
+		<StreetName>רוטשילד</StreetName>
+		<HouseNumber>58</HouseNumber>
+		<CurrentState>0</CurrentState>
+	</Parking>
+</Parkings>

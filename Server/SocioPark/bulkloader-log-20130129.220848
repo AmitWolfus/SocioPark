@@ -1,0 +1,303 @@
+[INFO     2013-01-29 22:08:48,541 bulkloader.py] Logging to bulkloader-log-20130129.220848
+[INFO     2013-01-29 22:08:48,542 bulkloader.py] Throttling transfers:
+[INFO     2013-01-29 22:08:48,542 bulkloader.py] Bandwidth: 250000 bytes/second
+[INFO     2013-01-29 22:08:48,542 bulkloader.py] HTTP connections: 8/second
+[INFO     2013-01-29 22:08:48,542 bulkloader.py] Entities inserted/fetched/modified: 20/second
+[INFO     2013-01-29 22:08:48,542 bulkloader.py] Batch Size: 10
+[INFO     2013-01-29 22:09:40,569 bulkloader.py] Opening database: bulkloader-progress-20130129.220848.sql3
+[INFO     2013-01-29 22:09:40,578 bulkloader.py] Opening database: bulkloader-results-20130129.220848.sql3
+[DEBUG    2013-01-29 22:09:40,592 adaptive_thread_pool.py] [WorkerThread-0] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,592 adaptive_thread_pool.py] [WorkerThread-1] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,592 adaptive_thread_pool.py] [WorkerThread-2] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,593 adaptive_thread_pool.py] [WorkerThread-3] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,593 adaptive_thread_pool.py] [WorkerThread-4] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,596 adaptive_thread_pool.py] [WorkerThread-5] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,596 adaptive_thread_pool.py] [WorkerThread-6] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,597 adaptive_thread_pool.py] [WorkerThread-7] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,597 adaptive_thread_pool.py] [WorkerThread-8] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,597 adaptive_thread_pool.py] [WorkerThread-9] WorkerThread: started
+[DEBUG    2013-01-29 22:09:40,597 bulkloader.py] Configuring remote_api. url_path = /_ah/remote_api, servername = socio-park.appspot.com
+[DEBUG    2013-01-29 22:09:40,599 bulkloader.py] Bulkloader using app_id: s~socio-park
+[INFO     2013-01-29 22:09:40,599 bulkloader.py] Connecting to socio-park.appspot.com/_ah/remote_api
+[DEBUG    2013-01-29 22:09:50,995 bulkloader.py] [Thread-11] ExportProgressThread: started
+[DEBUG    2013-01-29 22:09:50,995 bulkloader.py] [Thread-12] DataSourceThread: started
+[INFO     2013-01-29 22:09:50,995 bulkloader.py] Downloading kinds: ['Parking']
+[DEBUG    2013-01-29 22:09:51,001 bulkloader.py] [Thread-12] DataSourceThread: exiting
+[DEBUG    2013-01-29 22:09:51,004 bulkloader.py] Waiting for worker threads to finish...
+[DEBUG    2013-01-29 22:09:51,024 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-ASC[None to None]
+[DEBUG    2013-01-29 22:10:01,586 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:10:01,586 bulkloader.py] Entities transferred total: 10
+[DEBUG    2013-01-29 22:10:01,589 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:10:01,593 bulkloader.py] [WorkerThread-0] Parking-ASC[None to None] Transferred 10 entities in 10.5 seconds
+[DEBUG    2013-01-29 22:10:01,594 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'107', _app=u's~socio-park') to None]
+[INFO     2013-01-29 22:10:13,829 bulkloader.py] Parking: No descending index on __key__, performing serial download
+[DEBUG    2013-01-29 22:10:24,207 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:10:24,207 bulkloader.py] Entities transferred total: 20
+[DEBUG    2013-01-29 22:10:24,211 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:10:24,215 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'107', _app=u's~socio-park') to None] Transferred 10 entities in 22.6 seconds
+[INFO     2013-01-29 22:10:24,216 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:10:25,220 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'116', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:10:35,672 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:10:35,673 bulkloader.py] Entities transferred total: 30
+[DEBUG    2013-01-29 22:10:35,675 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:10:35,680 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'116', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:10:35,681 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:10:36,686 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'125', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:10:47,098 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:10:47,098 bulkloader.py] Entities transferred total: 40
+[DEBUG    2013-01-29 22:10:47,100 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:10:47,105 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'125', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:10:47,106 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:10:48,111 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'134', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:10:59,368 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:10:59,368 bulkloader.py] Entities transferred total: 50
+[DEBUG    2013-01-29 22:10:59,371 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:10:59,375 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'134', _app=u's~socio-park') to None] Transferred 10 entities in 11.2 seconds
+[INFO     2013-01-29 22:10:59,376 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:00,380 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'143', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:11:10,739 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:11:10,739 bulkloader.py] Entities transferred total: 60
+[DEBUG    2013-01-29 22:11:10,742 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:11:10,748 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'143', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:11:10,749 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:11,753 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'152', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:11:22,779 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:11:22,779 bulkloader.py] Entities transferred total: 70
+[DEBUG    2013-01-29 22:11:22,781 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:11:22,786 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'152', _app=u's~socio-park') to None] Transferred 10 entities in 11.0 seconds
+[INFO     2013-01-29 22:11:22,787 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:23,791 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'161', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:11:34,144 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.008
+[DEBUG    2013-01-29 22:11:34,144 bulkloader.py] Entities transferred total: 80
+[DEBUG    2013-01-29 22:11:34,146 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:11:34,153 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'161', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:11:34,154 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:35,158 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'170', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:11:45,556 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:11:45,556 bulkloader.py] Entities transferred total: 90
+[DEBUG    2013-01-29 22:11:45,559 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:11:45,564 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'170', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:11:45,565 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:46,569 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'18', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:11:56,969 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:11:56,969 bulkloader.py] Entities transferred total: 100
+[DEBUG    2013-01-29 22:11:56,972 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:11:56,977 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'18', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:11:56,978 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:11:57,983 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'189', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:12:08,537 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.008
+[DEBUG    2013-01-29 22:12:08,537 bulkloader.py] Entities transferred total: 110
+[DEBUG    2013-01-29 22:12:08,540 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:12:08,546 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'189', _app=u's~socio-park') to None] Transferred 10 entities in 10.5 seconds
+[INFO     2013-01-29 22:12:08,547 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:12:09,549 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'198', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:12:19,948 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:12:19,948 bulkloader.py] Entities transferred total: 120
+[DEBUG    2013-01-29 22:12:19,950 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:12:19,955 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'198', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:12:19,956 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:12:20,959 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'206', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:12:31,361 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:12:31,361 bulkloader.py] Entities transferred total: 130
+[DEBUG    2013-01-29 22:12:31,363 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:12:31,369 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'206', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:12:31,370 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:12:32,374 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'215', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:12:43,080 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:12:43,080 bulkloader.py] Entities transferred total: 140
+[DEBUG    2013-01-29 22:12:43,083 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:12:43,088 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'215', _app=u's~socio-park') to None] Transferred 10 entities in 10.7 seconds
+[INFO     2013-01-29 22:12:43,089 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:12:44,094 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'224', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:12:54,647 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:12:54,647 bulkloader.py] Entities transferred total: 150
+[DEBUG    2013-01-29 22:12:54,650 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:12:54,655 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'224', _app=u's~socio-park') to None] Transferred 10 entities in 10.5 seconds
+[INFO     2013-01-29 22:12:54,656 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:12:55,660 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'233', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:13:06,061 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:13:06,062 bulkloader.py] Entities transferred total: 160
+[DEBUG    2013-01-29 22:13:06,064 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:13:06,069 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'233', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:13:06,070 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:13:07,074 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'242', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:13:17,483 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:13:17,483 bulkloader.py] Entities transferred total: 170
+[DEBUG    2013-01-29 22:13:17,486 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:13:17,491 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'242', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:13:17,492 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:13:18,497 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'251', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:13:28,947 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:13:28,947 bulkloader.py] Entities transferred total: 180
+[DEBUG    2013-01-29 22:13:28,949 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:13:28,954 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'251', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:13:28,955 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:13:29,959 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'260', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:13:40,717 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:13:40,717 bulkloader.py] Entities transferred total: 190
+[DEBUG    2013-01-29 22:13:40,719 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:13:40,724 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'260', _app=u's~socio-park') to None] Transferred 10 entities in 10.7 seconds
+[INFO     2013-01-29 22:13:40,724 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:13:41,728 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'27', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:13:52,283 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:13:52,283 bulkloader.py] Entities transferred total: 200
+[DEBUG    2013-01-29 22:13:52,285 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:13:52,290 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'27', _app=u's~socio-park') to None] Transferred 10 entities in 10.5 seconds
+[INFO     2013-01-29 22:13:52,291 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:13:53,295 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'279', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:14:04,055 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.012
+[DEBUG    2013-01-29 22:14:04,055 bulkloader.py] Entities transferred total: 210
+[DEBUG    2013-01-29 22:14:04,057 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:14:04,063 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'279', _app=u's~socio-park') to None] Transferred 10 entities in 10.7 seconds
+[INFO     2013-01-29 22:14:04,064 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:14:05,069 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'288', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:14:15,617 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:14:15,617 bulkloader.py] Entities transferred total: 220
+[DEBUG    2013-01-29 22:14:15,620 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:14:15,626 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'288', _app=u's~socio-park') to None] Transferred 10 entities in 10.5 seconds
+[INFO     2013-01-29 22:14:15,627 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:14:16,632 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'297', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:14:26,979 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:14:26,979 bulkloader.py] Entities transferred total: 230
+[DEBUG    2013-01-29 22:14:26,981 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:14:26,987 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'297', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:14:26,988 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:14:27,992 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'305', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:14:38,505 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:14:38,506 bulkloader.py] Entities transferred total: 240
+[DEBUG    2013-01-29 22:14:38,508 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:14:38,514 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'305', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:14:38,515 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:14:39,519 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'314', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:14:50,123 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:14:50,123 bulkloader.py] Entities transferred total: 250
+[DEBUG    2013-01-29 22:14:50,125 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:14:50,131 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'314', _app=u's~socio-park') to None] Transferred 10 entities in 10.6 seconds
+[INFO     2013-01-29 22:14:50,132 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:14:51,135 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'323', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:01,541 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:15:01,541 bulkloader.py] Entities transferred total: 260
+[DEBUG    2013-01-29 22:15:01,544 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:15:01,549 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'323', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:15:01,550 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:15:02,554 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'332', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:13,164 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:15:13,164 bulkloader.py] Entities transferred total: 270
+[DEBUG    2013-01-29 22:15:13,167 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:15:13,173 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'332', _app=u's~socio-park') to None] Transferred 10 entities in 10.6 seconds
+[INFO     2013-01-29 22:15:13,174 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:15:14,178 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'341', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:24,736 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:15:24,736 bulkloader.py] Entities transferred total: 280
+[DEBUG    2013-01-29 22:15:24,738 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:15:24,744 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'341', _app=u's~socio-park') to None] Transferred 10 entities in 10.5 seconds
+[INFO     2013-01-29 22:15:24,745 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:15:25,749 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'350', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:36,199 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.011
+[DEBUG    2013-01-29 22:15:36,199 bulkloader.py] Entities transferred total: 290
+[DEBUG    2013-01-29 22:15:36,202 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:15:36,207 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'350', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:15:36,208 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:15:37,212 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'36', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:47,610 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:15:47,610 bulkloader.py] Entities transferred total: 300
+[DEBUG    2013-01-29 22:15:47,613 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:15:47,618 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'36', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:15:47,619 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:15:48,623 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'369', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:15:59,380 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:15:59,380 bulkloader.py] Entities transferred total: 310
+[DEBUG    2013-01-29 22:15:59,383 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:15:59,388 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'369', _app=u's~socio-park') to None] Transferred 10 entities in 10.7 seconds
+[INFO     2013-01-29 22:15:59,389 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:16:00,392 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'378', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:16:10,840 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:16:10,840 bulkloader.py] Entities transferred total: 320
+[DEBUG    2013-01-29 22:16:10,843 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:16:10,848 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'378', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:16:10,849 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:16:11,855 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'387', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:16:22,899 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:16:22,899 bulkloader.py] Entities transferred total: 330
+[DEBUG    2013-01-29 22:16:22,902 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:16:22,907 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'387', _app=u's~socio-park') to None] Transferred 10 entities in 11.0 seconds
+[INFO     2013-01-29 22:16:22,908 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 1.0 seconds
+[DEBUG    2013-01-29 22:16:23,913 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'396', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:16:36,725 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.008
+[DEBUG    2013-01-29 22:16:36,726 bulkloader.py] Entities transferred total: 340
+[DEBUG    2013-01-29 22:16:36,729 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:16:36,733 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'396', _app=u's~socio-park') to None] Transferred 10 entities in 12.8 seconds
+[INFO     2013-01-29 22:16:36,734 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:16:38,742 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'404', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:16:49,344 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:16:49,345 bulkloader.py] Entities transferred total: 350
+[DEBUG    2013-01-29 22:16:49,347 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:16:49,353 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'404', _app=u's~socio-park') to None] Transferred 10 entities in 10.6 seconds
+[INFO     2013-01-29 22:16:49,353 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:16:51,362 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'43', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:17:01,810 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:17:01,810 bulkloader.py] Entities transferred total: 360
+[DEBUG    2013-01-29 22:17:01,813 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:17:01,818 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'43', _app=u's~socio-park') to None] Transferred 10 entities in 10.4 seconds
+[INFO     2013-01-29 22:17:01,819 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:17:03,826 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'52', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:17:14,177 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.007
+[DEBUG    2013-01-29 22:17:14,177 bulkloader.py] Entities transferred total: 370
+[DEBUG    2013-01-29 22:17:14,180 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:17:14,185 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'52', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:17:14,186 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:17:16,194 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'61', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:17:26,593 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:17:26,593 bulkloader.py] Entities transferred total: 380
+[DEBUG    2013-01-29 22:17:26,596 bulkloader.py] delete: delta=0.001
+[DEBUG    2013-01-29 22:17:26,601 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'61', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:17:26,602 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:17:28,609 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'70', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:17:38,965 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.008
+[DEBUG    2013-01-29 22:17:38,966 bulkloader.py] Entities transferred total: 390
+[DEBUG    2013-01-29 22:17:38,969 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:17:38,973 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'70', _app=u's~socio-park') to None] Transferred 10 entities in 10.3 seconds
+[INFO     2013-01-29 22:17:38,974 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:17:40,983 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'8', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:17:51,694 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.010
+[DEBUG    2013-01-29 22:17:51,695 bulkloader.py] Entities transferred total: 400
+[DEBUG    2013-01-29 22:17:51,697 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:17:51,702 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'8', _app=u's~socio-park') to None] Transferred 10 entities in 10.7 seconds
+[INFO     2013-01-29 22:17:51,703 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 2.0 seconds
+[DEBUG    2013-01-29 22:17:53,710 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'89', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:18:06,741 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.008
+[DEBUG    2013-01-29 22:18:06,741 bulkloader.py] Entities transferred total: 410
+[DEBUG    2013-01-29 22:18:06,744 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:18:06,750 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'89', _app=u's~socio-park') to None] Transferred 10 entities in 13.0 seconds
+[INFO     2013-01-29 22:18:06,751 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 4.0 seconds
+[DEBUG    2013-01-29 22:18:10,766 adaptive_thread_pool.py] [WorkerThread-0] Got work item Parking-DESC(datastore_types.Key.from_path(u'Parking', u'98', _app=u's~socio-park') to None]
+[DEBUG    2013-01-29 22:18:21,159 bulkloader.py] bulkloader-results-20130129.220848.sql3 insert: delta=0.002
+[DEBUG    2013-01-29 22:18:21,160 bulkloader.py] Entities transferred total: 411
+[DEBUG    2013-01-29 22:18:21,161 bulkloader.py] delete: delta=0.000
+[DEBUG    2013-01-29 22:18:21,163 bulkloader.py] [WorkerThread-0] Parking-ASC(datastore_types.Key.from_path(u'Parking', u'98', _app=u's~socio-park') to None] Transferred 1 entities in 10.4 seconds
+[INFO     2013-01-29 22:18:21,164 adaptive_thread_pool.py] [WorkerThread-0] Backing off due to errors: 4.0 seconds
+[DEBUG    2013-01-29 22:18:21,177 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,177 adaptive_thread_pool.py] [WorkerThread-1] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,177 adaptive_thread_pool.py] [WorkerThread-2] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,177 adaptive_thread_pool.py] [WorkerThread-5] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-6] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-8] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-9] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-3] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-4] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,178 adaptive_thread_pool.py] [WorkerThread-7] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,415 adaptive_thread_pool.py] [WorkerThread-0] WorkerThread: exiting
+[DEBUG    2013-01-29 22:18:21,415 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,415 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,415 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,416 adaptive_thread_pool.py] Waiting for Anonymous_WorkerThread to exit
+[DEBUG    2013-01-29 22:18:21,417 bulkloader.py] Waiting for progress_thread to terminate...
+[DEBUG    2013-01-29 22:18:21,440 bulkloader.py] [Thread-11] ExportProgressThread: exiting
+[DEBUG    2013-01-29 22:18:21,453 bulkloader.py] ... done.
+[INFO     2013-01-29 22:18:21,974 bulkloader.py] Have 411 entities, 0 previously transferred
+[INFO     2013-01-29 22:18:21,974 bulkloader.py] 411 entities (311116 bytes) transferred in 573.4 seconds
